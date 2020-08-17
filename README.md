@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+Welcome to the website for the Department of Computer Science at the University of Bristol.
 
-You can use the [editor on GitHub](https://github.com/cs-uob/cs-uob.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This page will provide links to the unit pages for all units in the department who have chosen to create a proper website, as well as the unit catalogue page that contains the official information on topics like credit points and assessments.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Year 1
 
-### Markdown
+All these units are worth 20CP (credit points) each. The unit code numbering is not meant to make any sense, apart from the first digit being the year of study.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cs-uob/cs-uob.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+| Code | Title | Teaching Block | Unit page | Catalogue Page |
+|------|-------|----------------|-----------|----------------|
+| COMS10014 | Mathematics for Computer Science A    | TB1 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS10014) |
+| COMS10015 | Computer Architecture                 | TB1 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS10015) |
+| COMS10016 | Imperative and Functional Programming | TB1 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS10016) |
+| COMS10012 | Software Tools                        | TB2 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS10012) |
+| COMS10013 | Mathematics for Computer Science B    | TB2 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS10013) |
+| COMS10017 | Object-Oriented Programming and Algorithms I | TB2 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS10017) |
