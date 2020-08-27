@@ -46,6 +46,6 @@ Students who are not single honours CS should check with their programme directo
 | Cryptology                           | COMS30023 | COMS30022 | COMS30021 |           | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30023) |
 | Design Verification                  | COMS30026 | COMS30025 | COMS30024 |           | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30026) |
 | Image Processing and Computer Vision | COMS30030 | COMS30031 | COMS30032 |           | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30030) |
-| Machine Learning                     | COMS30035 | COMS30034 | COMS30033 |           | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30035) |
+| Machine Learning                     | COMS30035 | COMS30034 | COMS30033 | [unit page](https://uob-coms30035.github.io/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30035) |
 | Security Behaviours                  | COMS30038 | COMS30037 | COMS30036 |           | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30038) |
 | Types and Lambda Calculus            | COMS30040 | -         | COMS30039 |           | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30040) |
