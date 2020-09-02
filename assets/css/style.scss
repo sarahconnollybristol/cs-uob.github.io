@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  /* This looks a bit nicer on mobile when tables overflow */
+  background: #f2f2f2;
+}
