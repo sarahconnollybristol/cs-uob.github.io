@@ -2,7 +2,7 @@ Welcome to the website for the Department of Computer Science at the University 
 
 This page will provide links to the unit pages for all units in the department who have chosen to create a proper website, as well as the unit catalogue page that contains the official information on topics like credit points and assessments.
 
-Some units have chosen to host their page on the university's Blackboard content management system. These are marked with `(*)` and will only work if you are already logged in to Blackboard, which you can do at [ole.bris.ac.uk](https://ole.bris.ac.uk).
+Some units have chosen to host their page on the university's Blackboard content management system. These are marked with `(*)` and, depending on the set-up, might only work if you are already logged in to Blackboard, which you can do at [ole.bris.ac.uk](https://ole.bris.ac.uk).
 
 # Year 1
 
@@ -25,9 +25,9 @@ TB4 means that a unit runs across the entire academic year.
 |------|-------|----------------|---------|-----------|----------------|
 | COMS20006 | Software Engineering Project | TB4 | 20 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS20006) |
 | COMS20007 | Programming Languages and Computation | TB1 | 20 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS20007) |
-| COMS20008 | Computer Systems A | TB1 | 20 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS20008) |
+| COMS20008 | Computer Systems A | TB1 | 20 | (*) [Blackboard page](https://www.ole.bris.ac.uk/bbcswebdav/pid-4894127-dt-content-rid-16775152_2/xid-16775152_2) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS20008) |
 | COMS20009 | Interaction and Society | TB2 | 20 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS20009) |
-| COMS20010 | Algorithms II | TB1 | 10 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS20010) |
+| COMS20010 | Algorithms II | TB1 | 10 | (*) [Blackboard page](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_240782_1&content_id=_4562987_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS20010) |
 | COMS20011 | Data-Driven Computer Science | TB2 | 10 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS20011) |
 | COMS20012 | Computer Systems B | TB2 | 20 | [unit page](https://cs-uob.github.io/COMS20012/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS20012) |
 
