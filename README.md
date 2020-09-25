@@ -24,7 +24,7 @@ TB4 means that a unit runs across the entire academic year.
 | Code | Title | Teaching Block | Credits | Unit page | Catalogue Page |
 |------|-------|----------------|---------|-----------|----------------|
 | COMS20006 | Software Engineering Project | TB4 | 20 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS20006) |
-| COMS20007 | Programming Languages and Computation | TB1 | 20 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS20007) |
+| COMS20007 | Programming Languages and Computation | TB1 | 20 | [unit page](https://cs-uob.github.io/COMS20007/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS20007) |
 | COMS20008 | Computer Systems A | TB1 | 20 | [Blackboard page (*)](https://www.ole.bris.ac.uk/bbcswebdav/pid-4894127-dt-content-rid-16775152_2/xid-16775152_2) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS20008) |
 | COMS20009 | Interaction and Society | TB2 | 20 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS20009) |
 | COMS20010 | Algorithms II | TB1 | 10 | [Blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_240782_1&content_id=_4562987_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS20010) |
@@ -50,7 +50,7 @@ Students who are not single honours CS should check with their programme directo
 | Image Processing and Computer Vision | COMS30030 | COMS30031 | COMS30032 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_4789235_1&course_id=_240805_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30030) |
 | Machine Learning                     | COMS30035 | COMS30034 | COMS30033 | [unit page](https://uob-coms30035.github.io/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30035) |
 | Security Behaviours                  | COMS30038 | COMS30037 | COMS30036 |           | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30038) |
-| Types and Lambda Calculus            | COMS30040 | -         | COMS30039 |           | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30040) |
+| Types and Lambda Calculus            | COMS30040 | -         | COMS30039 | [unit page](https://cs-uob.github.io/COMS30040/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30040) |
 
 # Year 4, Teaching Block 1
 
