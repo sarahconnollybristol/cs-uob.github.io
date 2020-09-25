@@ -2,6 +2,8 @@ Welcome to the website for the Department of Computer Science at the University 
 
 This page will provide links to the unit pages for all units in the department who have chosen to create a proper website, as well as the unit catalogue page that contains the official information on topics like credit points and assessments.
 
+Some units have chosen to host their page on the university's Blackboard content management system. These are marked with `(*)` and will only work if you are already logged in to Blackboard, which you can do at [ole.bris.ac.uk](https://ole.bris.ac.uk).
+
 # Year 1
 
 All these units are worth 20CP (credit points) each. The unit code numbering is not meant to make any sense, apart from the first digit being the year of study.
@@ -10,7 +12,7 @@ All these units are worth 20CP (credit points) each. The unit code numbering is 
 |------|-------|----------------|-----------|----------------|
 | COMS10014 | Mathematics for Computer Science A    | TB1 | [unit page](https://cs-uob.github.io/COMS10014/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS10014) |
 | COMS10015 | Computer Architecture                 | TB1 | [unit page](https://github.com/danpage/COMS10015) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS10015) |
-| COMS10016 | Imperative and Functional Programming | TB1 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS10016) |
+| COMS10016 | Imperative and Functional Programming | TB1 | (*) [blackboard page](https://www.ole.bris.ac.uk/bbcswebdav/pid-4789210-dt-content-rid-16624368_2/xid-16624368_2) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS10016) |
 | COMS10012 | Software Tools                        | TB2 | [unit page](https://cs-uob.github.io/COMS10012/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS10012) |
 | COMS10013 | Mathematics for Computer Science B    | TB2 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS10013) |
 | COMS10017 | Object-Oriented Programming and Algorithms I | TB2 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS10017) |
