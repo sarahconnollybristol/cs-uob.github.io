@@ -2,7 +2,7 @@ Welcome to the website for the Department of Computer Science at the University 
 
 This page will provide links to the unit pages for all units in the department who have chosen to create a proper website, as well as the unit catalogue page that contains the official information on topics like credit points and assessments.
 
-Some units have chosen to host their page on the university's Blackboard content management system. These are marked with `(*)` and, depending on the set-up, might only work if you are already logged in to Blackboard, which you can do at [ole.bris.ac.uk](https://ole.bris.ac.uk).
+Some units have chosen to host their page on the university's Blackboard content management system. These are marked with `(*)` and, depending on the set-up, might only work if you are already logged in to Blackboard and only if you are registered on the unit. You can log in to blackboard at [ole.bris.ac.uk](https://ole.bris.ac.uk).
 
 # Year 1
 
@@ -47,7 +47,7 @@ Students who are not single honours CS should check with their programme directo
 | Computer Graphics                    | COMS30020 | COMS30019 | COMS30018 |           | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30020) |
 | Cryptology                           | COMS30023 | COMS30022 | COMS30021 |           | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30023) |
 | Design Verification                  | COMS30026 | COMS30025 | COMS30024 |           | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30026) |
-| Image Processing and Computer Vision | COMS30030 | COMS30031 | COMS30032 |           | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30030) |
+| Image Processing and Computer Vision | COMS30030 | COMS30031 | COMS30032 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_4789235_1&course_id=_240805_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30030) |
 | Machine Learning                     | COMS30035 | COMS30034 | COMS30033 | [unit page](https://uob-coms30035.github.io/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30035) |
 | Security Behaviours                  | COMS30038 | COMS30037 | COMS30036 |           | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30038) |
 | Types and Lambda Calculus            | COMS30040 | -         | COMS30039 |           | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30040) |
