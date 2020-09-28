@@ -43,7 +43,7 @@ Students who are not single honours CS should check with their programme directo
 |--------------------------------------|-----------|-----------|-----------|-----------|----------------|
 | Advanced Algorithms                  | COMS30042 | -         | COMS30041 |           | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30042) |
 | Artificial Intelligence              | COMS30014 | COMS30012 | COMS30013 |           | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30014) |
-| Computational Neuroscience           | COMS30017 | COMS30015 | COMS30016 |           | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30017) |
+| Computational Neuroscience           | COMS30017 | COMS30015 | COMS30016 | [unit page](https://cs-uob.github.io/COMS30017/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30017) |
 | Computer Graphics                    | COMS30020 | COMS30019 | COMS30018 |           | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30020) |
 | Cryptology                           | COMS30023 | COMS30022 | COMS30021 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_240798_1&content_id=_4564379_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30023) |
 | Design Verification                  | COMS30026 | COMS30025 | COMS30024 |           | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30026) |
