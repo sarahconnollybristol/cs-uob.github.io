@@ -96,3 +96,17 @@ Students must enrol on the teaching unit and on the correct assessment unit for 
 | Interaction Design | COMS30060 | COMS30061 | COMSM0083 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30060) |
 
 Exception: Year 4 MEng students may also take EMATM0053 "Robotics Systems (Undergraduate)", offered by Engineering Mathematics.
+
+# Conversion course (PGT)
+
+On the conversion course, you will take the following units:
+
+| Code      | Title | Page | Catalogue Page |
+|-----------|-------|------|----------------|
+| COMSM0084 | Introduction to Computer Science |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMSM0084) |
+| COMSM1201 | Programming in C |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMSM1201) |
+| COMSM1302 | Overview of Computer Architecture |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMSM1302) |
+| COMSM0085 | Overview of Software Tools |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMSM0085) |
+| COMSM0086 | Object-Oriented Programming with Java |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMSM0086) |
+| COMSM1401 | Software Engineering and Group Project |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMSM1401) |
+| COMSM3201 | Project |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMSM3201) |
