@@ -41,7 +41,7 @@ Students who are not single honours CS should check with their programme directo
 
 | Title                                | Teaching  | In-term   | January   | Unit page | Catalogue Page |
 |--------------------------------------|-----------|-----------|-----------|-----------|----------------|
-| Advanced Algorithms                  | COMS30042 | -         | COMS30041 |           | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30042) |
+| Advanced Algorithms                  | COMS30042 | -         | COMS30041 | [unit page](http://people.cs.bris.ac.uk/~clifford/coms31900-2020/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30042) |
 | Artificial Intelligence              | COMS30014 | COMS30012 | COMS30013 |           | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30014) |
 | Computational Neuroscience           | COMS30017 | COMS30015 | COMS30016 | [unit page](https://cs-uob.github.io/COMS30017/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30017) |
 | Computer Graphics                    | COMS30020 | COMS30019 | COMS30018 |           | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30020) |
