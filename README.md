@@ -23,7 +23,7 @@ TB4 means that a unit runs across the entire academic year.
 
 | Code | Title | Teaching Block | Credits | Unit page | Catalogue Page |
 |------|-------|----------------|---------|-----------|----------------|
-| COMS20006 | Software Engineering Project | TB4 | 20 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS20006) |
+| COMS20006 | Software Engineering Project | TB4 | 20 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_240778_1&content_id=_4562639_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS20006) |
 | COMS20007 | Programming Languages and Computation | TB1 | 20 | [unit page](https://cs-uob.github.io/COMS20007/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS20007) |
 | COMS20008 | Computer Systems A | TB1 | 20 | [unit page](https://uob-csa.github.io/website/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS20008) |
 | COMS20009 | Interaction and Society | TB2 | 20 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS20009) |
@@ -60,12 +60,12 @@ Some units only offer a January assessment option.
 | Title                                           | Teaching  | In-term   | January   | Unit page | Catalogue Page |
 |-------------------------------------------------|-----------|-----------|-----------|-----------|----------------|
 | Advanced Cryptology                             | COMSM0042 | COMSM0041 | COMSM0040 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_240856_1&content_id=_4569432_1) |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMSM0042) |
-| Advanced Topics in Programming Languages        | COMSM0067 | -         | COMSM0066 |           |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMSM0067) |
+| Advanced Topics in Programming Languages        | COMSM0067 | -         | COMSM0066 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_240880_1&content_id=_4571520_1) |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMSM0067) |
 | Advanced Topics in Theoretical Computer Science | COMSM0068 | -         | COMSM0069 | [unit page](http://people.cs.bris.ac.uk/~konrad/courses/2020_2021_COMSM0068/comsm0068.html) |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMSM0068) |
 | Applied Deep Learning                           | COMSM0045 | COMSM0044 | COMSM0043 | [unit page](http://comsm0045-applied-deep-learning.github.io/) |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMSM0045) |
 | Cloud Computing and Big Data                    | COMSM0072 | COMSM0070 | COMSM0071 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_240886_1&content_id=_4572042_1&mode=reset) |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMSM0072) |
 | Information Processing and the Brain            | COMSM0075 | COMSM0074 | COMSM0073 | [unit page](https://comsm0075.github.io/) |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMSM0075) |
-| Internet Economics and Financial Technology     | COMSM0046 | COMSM0048 | COMSM0047 |           |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMSM0046) |
+| Internet Economics and Financial Technology     | COMSM0046 | COMSM0048 | COMSM0047 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_240860_1&content_id=_4569780_1) |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMSM0046) |
 | Systems and Software Security                   | COMSM0049 | COMSM0051 | COMSM0050 | [unit page](https://cs-uob.github.io/COMSM0049/) |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMSM0049) |
 
 # Year 3 and 4, Teaching Block 2 - project units
