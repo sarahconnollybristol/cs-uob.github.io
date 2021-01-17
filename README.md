@@ -89,7 +89,7 @@ Students must enrol on the teaching unit and on the correct assessment unit for 
 | Unit title | Teaching | Year 3 | Year 4 | Unit page | Catalogue page |
 |------------|----------|--------|--------|-----------|----------------|
 | Advanced Computer Architecture | COMS30046 | COMS30047 | COMSM0053 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30046) |
-| Applied Cryptology | COMS30048 | COMS30049 | COMSM0054 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30048) |
+| Applied Cryptology | COMS30048 | COMS30049 | COMSM0054 | [unit page](https://github.com/danpage/COMS30048) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30048) |
 | Applied Data Science | COMS30050 | COMS30051 | COMSM0055 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30050) |
 | CGI | COMS30058 | COMS30059 | COMSM0076 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30058) |
 | High Performance Computing | COMS30053 | COMS30052 | COMSM0057 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30053) |
