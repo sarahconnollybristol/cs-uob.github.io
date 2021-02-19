@@ -23,8 +23,8 @@
 | :---    | :---: | :---: | :---: | :----: | :---: |
 | 1 Feb   | Introduction to Objects | Introduction | Linux/POSIX, shell, git | Documentation |  |
 | 8 Feb   | Further Language Constructs | Agile, team collaboration | Linux/POSIX, shell, git | Functional Programming vs OOP |  |
-| 15 Feb  | Polymorphism and Collections | System stack | Catch up/Q&A | Research Presentations | 16/2 @ 10:00: [Project Q&A](https://teams.microsoft.com/l/channel/19%3ae0e5d61994e544cb91c6467c6d7d1a78%40thread.tacv2/General?groupId=a7524922-3f0b-4e0b-af8e-40f5f415d3c4&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b)</br>Academic tutorials @ 11:00, choose channel by topic |
-| 22 Feb  | Error Handling | Front end | Build Systems, Environments, Debuggers | Topic Presentations | 26/2 @ 13:00: **OOP/Java - OXO Due**</br>Academic tutorials @ 11:00, choose channel by topic |
+| 15 Feb  | Polymorphism and Collections | System stack | Catch up/Q&A | Research Presentations | 16/2 @ 10:00: [Project Q&A](https://teams.microsoft.com/l/channel/19%3ae0e5d61994e544cb91c6467c6d7d1a78%40thread.tacv2/General?groupId=a7524922-3f0b-4e0b-af8e-40f5f415d3c4&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b)<br>Academic tutorials @ 11:00, choose channel by topic |
+| 22 Feb  | Error Handling | Front end | Build Systems, Environments, Debuggers | Topic Presentations | 26/2 @ 13:00: **OOP/Java - OXO Due**<br>Academic tutorials @ 11:00, choose channel by topic |
 | 1 Mar   | --- | --- | --- | --- | READING WEEK |
 | 8 Mar   | Secret | Middle Tier | Databases (MariaDB) | Project Info |  |
 | 15 Mar  | Secret | Back End | Databases (MariaDB) | Project Info |  |
@@ -34,5 +34,5 @@
 | 12 Apr  | --- | --- | --- | --- | EASTER BREAK |
 | 19 Apr  | Secret | Sprints | Web technologies | Algorithms |  |
 | 26 Apr  | Secret | Sprints | Cloud | Design Patterns |  |
-| 3 May   | Secret | Sprints | Cloud | Tools | 7/5 @ 13:00: **Software Engineering - Project Due**</br>7/5 @ 13:00: **OOP/Java - STAG Due** |
+| 3 May   | Secret | Sprints | Cloud | Tools | 7/5 @ 13:00: **Software Engineering - Project Due**<br>7/5 @ 13:00: **OOP/Java - STAG Due** |
 | 10 May  | Secret | N/A | Revision | TBD |  |
