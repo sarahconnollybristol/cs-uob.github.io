@@ -27,8 +27,8 @@
 | 15 Feb  | Polymorphism and Collections | System stack | Catch up/Q&A | Research Presentations | 16/2 @ 10:00: [Project Q&A](https://teams.microsoft.com/l/channel/19%3ae0e5d61994e544cb91c6467c6d7d1a78%40thread.tacv2/General?groupId=a7524922-3f0b-4e0b-af8e-40f5f415d3c4&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b)<br>Academic tutorials @ 11:00, choose channel by topic |
 | 22 Feb  | Error Handling | Front end | Build Systems, Environments, Debuggers | Topic Presentations | 25/2 @ 11:30: PGT Town Hall<br>26/2 @ 13:00: **OOP/Java - OXO Due**<br>Academic tutorials @ 11:00, choose channel by topic |
 | 1 Mar   | --- | --- | --- | --- | READING WEEK |
-| 8 Mar   | Secret | Middle Tier | Databases (MariaDB) | Project Info |  |
-| 15 Mar  | Secret | Back End | Databases (MariaDB) | Project Info |  |
+| 8 Mar   | Secret | Middle Tier | Databases (MariaDB) | Project Info | 10/3 @ 15:30: [Project Proposals Intro](https://teams.microsoft.com/l/channel/19%3ae0e5d61994e544cb91c6467c6d7d1a78%40thread.tacv2/General?groupId=a7524922-3f0b-4e0b-af8e-40f5f415d3c4&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b) |
+| 15 Mar  | Secret | Back End | Databases (MariaDB) | Project Info | 17/3 @ 13:30 [How to Start a Business Seminar](https://teams.microsoft.com/l/channel/19%3a7807ee64a1d343cd8e9fcd020ceff372%40thread.tacv2/General?groupId=5519f6d5-7f42-4b56-ab80-f60123e60a21&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b) |
 | 22 Mar  | Secret | Deployment | Web technologies | Project Info | 26/3 @ 13:00 **OOP/Java - DB Due** |
 | 29 Mar  | --- | --- | --- | --- | EASTER BREAK |
 | 5 Apr   | --- | --- | --- | --- | EASTER BREAK |
