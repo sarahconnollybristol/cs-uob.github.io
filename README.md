@@ -106,7 +106,7 @@ On the conversion course, you will take the following units:
 | COMSM0084 | Introduction to Computer Science |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMSM0084) |
 | COMSM1201 | Programming in C |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMSM1201) |
 | COMSM1302 | Overview of Computer Architecture |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMSM1302) |
-| COMSM0085 | Overview of Software Tools |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMSM0085) |
+| COMSM0085 | Overview of Software Tools | [page](https://cs-uob.github.io/COMSM0085/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMSM0085) |
 | COMSM0086 | Object-Oriented Programming with Java |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMSM0086) |
 | COMSM1401 | Software Engineering and Group Project | [page](https://github.com/segp-uob/segp)  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMSM1401) |
 | COMSM3201 | Project |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMSM3201) |
