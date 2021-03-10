@@ -22,18 +22,20 @@
 
 | Week of | [OOP/Java](https://github.com/drslock/JAVA2020) | [Software Engineering](https://github.com/segp-uob/segp) | [Software Tools](https://cs-uob.github.io/COMSM0085/) | Academic Tutorials | Notes |
 | :---    | :---: | :---: | :---: | :----: | :---: |
-| 1 Feb   | Introduction to Objects | Introduction | Linux/POSIX, shell, git | Documentation |  |
-| 8 Feb   | Further Language Constructs | Agile, team collaboration | Linux/POSIX, shell, git | Functional Programming vs OOP |  |
-| 15 Feb  | Polymorphism and Collections | System stack | Catch up/Q&A | Research Presentations | 16/2 @ 10:00: [Project Q&A](https://teams.microsoft.com/l/channel/19%3ae0e5d61994e544cb91c6467c6d7d1a78%40thread.tacv2/General?groupId=a7524922-3f0b-4e0b-af8e-40f5f415d3c4&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b)<br>Academic tutorials @ 11:00, choose channel by topic |
-| 22 Feb  | Error Handling | Front end | Build Systems, Environments, Debuggers | Topic Presentations | 25/2 @ 11:30: PGT Town Hall<br>26/2 @ 13:00: **OOP/Java - OXO Due**<br>Academic tutorials @ 11:00, choose channel by topic |
-| 1 Mar   | --- | --- | --- | --- | READING WEEK |
-| 8 Mar   | Secret | Middle Tier | Databases (MariaDB) | Project Info | 10/3 @ 15:30: [Project Proposals Intro](https://teams.microsoft.com/l/channel/19%3ae0e5d61994e544cb91c6467c6d7d1a78%40thread.tacv2/General?groupId=a7524922-3f0b-4e0b-af8e-40f5f415d3c4&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b) |
-| 15 Mar  | Secret | Back End | Databases (MariaDB) | Project Info | 17/3 @ 13:30 [How to Start a Business Seminar](https://teams.microsoft.com/l/channel/19%3a7807ee64a1d343cd8e9fcd020ceff372%40thread.tacv2/General?groupId=5519f6d5-7f42-4b56-ab80-f60123e60a21&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b) |
-| 22 Mar  | Secret | Deployment | Web technologies | Project Info | 26/3 @ 13:00 **OOP/Java - DB Due** |
+| 1 Feb   | [Introduction to Objects](https://github.com/drslock/JAVA2020/tree/main/Weekly%20Workbooks/01%20Introduction%20to%20Objects) | [Introduction](https://github.com/segp-uob/segp/blob/main/dev/Worksheets/0_gettingstarted.md) | [Linux/POSIX, shell, git](https://cs-uob.github.io/COMSM0085/exercises/posix/) | Documentation |  |
+| 8 Feb   | [Further Language Constructs](https://github.com/drslock/JAVA2020/tree/main/Weekly%20Workbooks/02%20Further%20Language%20Constructs) | [Agile, team collaboration](https://github.com/segp-uob/segp/blob/main/dev/Worksheets/1_DevOps_Docker_CI.md) | [Linux/POSIX, shell, git](https://cs-uob.github.io/COMSM0085/exercises/posix/) | Functional Programming vs OOP |  |
+| 15 Feb  | [Polymorphism and Collections](https://github.com/drslock/JAVA2020/tree/main/Weekly%20Workbooks/03%20Polymorphism%20and%20Collections) | [System stack](https://github.com/segp-uob/segp/blob/main/dev/Worksheets/2_Angular_building_client_side.md) | Catch up/Q&A | Research Presentations | 16/2 @ 10:00: [Project Q&A](https://teams.microsoft.com/l/channel/19%3ae0e5d61994e544cb91c6467c6d7d1a78%40thread.tacv2/General?groupId=a7524922-3f0b-4e0b-af8e-40f5f415d3c4&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b)<br>Academic tutorials @ 11:00, choose channel by topic |
+| 22 Feb  | [Error Handling](https://github.com/drslock/JAVA2020/tree/main/Weekly%20Workbooks/04%20Error%20Handling) | [Front end](https://github.com/segp-uob/segp/blob/main/dev/Worksheets/3_Angular_dashboard.md) | Build Systems, Environments, Debuggers | Topic Presentations | 25/2 @ 11:30: PGT Town Hall<br>26/2 @ 13:00: **OOP/Java - OXO Due**<br>Academic tutorials @ 11:00, choose channel by topic |
+| 1 Mar   | [Code Quality](https://github.com/drslock/JAVA2020/tree/main/Weekly%20Workbooks/05%20Code%20Quality) | --- | --- | --- | READING WEEK |
+| 8 Mar   | [DB Brief](https://github.com/drslock/JAVA2020/tree/main/Weekly%20Workbooks/06%20Briefing%20on%20DB%20assignment) | [API Dev](https://github.com/segp-uob/segp/blob/main/dev/Worksheets/4_Launch_your_API.md) | [Databases (MariaDB)](https://cs-uob.github.io/COMSM0085/exercises/databases/) | Project Info | 10/3 @ 15:30: [Project Proposals Intro](https://teams.microsoft.com/l/channel/19%3ae0e5d61994e544cb91c6467c6d7d1a78%40thread.tacv2/General?groupId=a7524922-3f0b-4e0b-af8e-40f5f415d3c4&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b) |
+| 15 Mar  | Secret | [API Integration](https://github.com/segp-uob/segp/blob/main/dev/Worksheets/5_Deploying_with_Docker.md) | [Databases (MariaDB)](https://cs-uob.github.io/COMSM0085/exercises/databases/) | Project Info | 17/3 @ 13:30 [How to Start a Business Seminar](https://teams.microsoft.com/l/channel/19%3a7807ee64a1d343cd8e9fcd020ceff372%40thread.tacv2/General?groupId=5519f6d5-7f42-4b56-ab80-f60123e60a21&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b) |
+| 22 Mar  | Secret | [Deployment & Testing](https://github.com/segp-uob/segp/blob/main/dev/Worksheets/6_Express_through_services.md) | Web technologies | Project Info | 26/3 @ 13:00 **OOP/Java - DB Due** |
 | 29 Mar  | --- | --- | --- | --- | EASTER BREAK |
 | 5 Apr   | --- | --- | --- | --- | EASTER BREAK |
 | 12 Apr  | --- | --- | --- | --- | EASTER BREAK |
-| 19 Apr  | Secret | Sprints | Web technologies | Algorithms |  |
+| 19 Apr  | Secret | [Sprints](https://github.com/segp-uob/segp/blob/main/dev/Worksheets/7_MongoDB_persistent_storage.md) | Web technologies | Algorithms |  |
 | 26 Apr  | Secret | Sprints | Cloud | Design Patterns |  |
 | 3 May   | Secret | Sprints | Cloud | Tools | 7/5 @ 13:00: **Software Engineering - Project Due**<br>7/5 @ 13:00: **OOP/Java - STAG Due** |
-| 10 May  | Secret | N/A | Revision | TBD |  |
+| 10 May  | Secret | N/A | Revision | TBD | 14/5 @ 13:00: **Project Proposal Due** |
+| Summer  | --- | --- | --- | --- | Work on project |
+| 13 Sept | --- | --- | --- | --- | 13/9 @ 13:00: **Summer Project Due** |
