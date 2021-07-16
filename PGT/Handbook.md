@@ -202,7 +202,8 @@ What you actually do during this phase will depend entirely on your project topi
 
 You should also read the common pitfalls in this document, most of which are based in this phase. The most important advice, though, is to have a plan 
 formulated during the specification phase, which specific milestones you expect to receive at specific times (even if it changes)! Without one, you’re 
-vulnerable to procrastination and are likely to end up rushing things at the end.
+vulnerable to procrastination and are likely to end up rushing things at the end.  
+
 **Progress reviews:** Regular progress reviews should be undertaken by the student team in collaboration with the Project Advisor.
 
 #### Ethical Approval
@@ -587,6 +588,8 @@ have to reinvent the wheel. (Just remember to cite!)
 
 # FAQ
 
+## General
+
 Q: **Where do I get help on my homework?**  
 A: Your first and best resource is each other. You have the course notes and recorded lectures and Q&A sessions to refer back to, which are all high-quality 
 and provide good information. But if you’re still stuck, reach out to a coursemate. This sounds like a cop-out for the staff, but it’s genuinely a win-win for 
@@ -622,6 +625,8 @@ form, which enables you to detail your circumstances and what kind of allowance 
 when the mark decision is made?) You can also self-certify absences and request coursework extensions from the same portal. If circumstances require additional 
 consideration, you can contact your unit directors, the programme director (Andrew Calway), your tutor, the head tutor (Chris Priest), or anyone else you feel 
 comfortable contacting and they can either help or direct you toward help.  
+
+## Project-Specific
 
 Q: **My supervisor/advisor isn’t responding. I haven’t spoken to them in over a week. What should I do?**  
 A: The type and volume of interaction with the people filling these roles may differ, and vary over the project duration, but keep in mind that responsibility 
