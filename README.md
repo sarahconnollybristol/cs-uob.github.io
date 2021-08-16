@@ -6,6 +6,8 @@ Some units have chosen to host their information on the university's Blackboard 
 
 For undergraduate students picking their optional units for future years, we have created [an interactive prerequisite map](FACE/index.html). All information on this page is offered "without warranty" as the information is subject to change in future years.
 
+<span style="color:red;font-weight:bold">This page currently contains information for the 2020-2021 academic year. It will be updated for the 2021-22 academic year in early September.</span>
+
 # Year 1
 
 All these units are worth 20CP (credit points) each. The unit code numbering is not meant to make any sense, apart from the first digit being the year of study.
