@@ -37,9 +37,7 @@ TB4 means that a unit runs across the entire academic year.
 
 # Year 3, Teaching Block 1
 
-Single honours computer science students pick four units, of which two are assessed in term (coursework) and two are assessed in January. As a result, each unit has three codes, one for the teaching unit (where the unit material will be) and one each for the in-term and January assessments. Some units only exist in one of the two assessment forms, these have only two codes.
-
-The in-term assessments are 20 credit points each, and the January ones 10 credit points each.
+Single honours computer science students pick five units, of which two are assessed in term (worth 15 CP each) and three are assessed in January (worth 10 CP each). As a result, each unit has three codes, one for the teaching unit (where the unit material will be) and one each for the in-term and January assessments. Some units only exist in one of the two assessment forms, these have only two codes.
 
 Students who are not single honours CS should check with their programme director for details, but typically they can only take the 10 credit versions of units, with a January assessment.
 
@@ -51,6 +49,7 @@ Students who are not single honours CS should check with their programme directo
 | Computer Graphics                    | COMS30020 | COMS30019 | COMS30018 |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS30020) |
 | Cryptology                           | COMS30023 | COMS30022 | COMS30021 |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS30023) |
 | Design Verification                  | COMS30026 | COMS30025 | COMS30024 |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS30026) |
+| Human-Computer Interaction           | COMS30029 | COMS30067 | COMS30027 |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS30029) |
 | Image Processing and Computer Vision | COMS30030 | COMS30031 | COMS30032 |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS30030) |
 | Machine Learning                     | COMS30035 | COMS30034 | COMS30033 |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS30035) |
 | Security Behaviours                  | COMS30038 | COMS30037 | COMS30036 |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS30038) |
@@ -58,7 +57,7 @@ Students who are not single honours CS should check with their programme directo
 
 # Year 4, Teaching Block 1
 
-MEng and MSci CS students take four of the following units in year 4. The rules are the same as for year 3: two units assessed by 20CP coursework in-term, two units assessed in January at 10CP each.
+MEng and MSci CS students take five of the following units in year 4. The rules are the same as for year 3: two units assessed in-term at 15 CP each, three units assessed in January at 10 CP each.
 Some units only offer a January assessment option.
 
 | Title                                           | Teaching  | In-term   | January   | Unit page | Catalogue Page |
@@ -68,6 +67,7 @@ Some units only offer a January assessment option.
 | Advanced Topics in Theoretical Computer Science | COMSM0068 | -         | COMSM0069 |  |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0068) |
 | Applied Deep Learning                           | COMSM0045 | COMSM0044 | COMSM0043 |  |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0045) |
 | Cloud Computing and Big Data                    | COMSM0072 | COMSM0070 | COMSM0071 |  |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0072) |
+| Human-Computer Interaction                      | COMS30029 | COMSM0113 | COMSM0114 |  |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS30029) |
 | Information Processing and the Brain            | COMSM0075 | COMSM0074 | COMSM0073 |  |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0075) |
 | Internet Economics and Financial Technology     | COMSM0046 | COMSM0048 | COMSM0047 |  |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0046) |
 | Systems and Software Security                   | COMSM0049 | COMSM0051 | COMSM0050 |  |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0049) |
