@@ -14,7 +14,7 @@ All these units are worth 20CP (credit points) each. The unit code numbering is 
 
 | Code | Title | Teaching Block | Unit page | Catalogue Page |
 |------|-------|----------------|-----------|----------------|
-| COMS10014 | Mathematics for Computer Science A    | TB1 |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS10014) |
+| COMS10014 | Mathematics for Computer Science A    | TB1 | [unit page](https://cs-uob.github.io/COMS10014/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS10014) |
 | COMS10015 | Computer Architecture                 | TB1 |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS10015) |
 | COMS10016 | Imperative and Functional Programming | TB1 |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS10016) |
 | COMS10012 | Software Tools                        | TB2 |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS10012) |
