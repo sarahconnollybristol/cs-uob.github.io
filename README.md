@@ -16,7 +16,7 @@ All these units are worth 20CP (credit points) each. The unit code numbering is 
 |------|-------|----------------|-----------|----------------|
 | COMS10014 | Mathematics for Computer Science A    | TB1 | [unit page](https://cs-uob.github.io/COMS10014/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS10014) |
 | COMS10015 | Computer Architecture                 | TB1 | [unit page](https://www.phoo.org/COMS10015/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS10015) |
-| COMS10016 | Imperative and Functional Programming | TB1 |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS10016) |
+| COMS10016 | Imperative and Functional Programming | TB1 | [unit page](https://uob-imperative.github.io/COMS10016/start.html) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS10016) |
 | COMS10012 | Software Tools                        | TB2 |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS10012) |
 | COMS10013 | Mathematics for Computer Science B    | TB2 |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS10013) |
 | COMS10017 | Object-Oriented Programming and Algorithms I | TB2 |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS10017) |
@@ -27,7 +27,7 @@ TB4 means that a unit runs across the entire academic year.
 
 | Code | Title | Teaching Block | Credits | Unit page | Catalogue Page |
 |------|-------|----------------|---------|-----------|----------------|
-| COMS20006 | Software Engineering Project          | TB4 | 20 |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS20006) |
+| COMS20006 | Software Engineering Project          | TB4 | 20 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_247720_1&content_id=_5949197_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS20006) |
 | COMS20007 | Programming Languages and Computation | TB1 | 20 |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS20007) |
 | COMS20008 | Computer Systems A                    | TB1 | 20 | [unit page](https://uob-csa.github.io/website/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS20008) |
 | COMS20009 | Interaction and Society               | TB2 | 20 |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS20009) |
@@ -43,12 +43,12 @@ Students who are not single honours CS should check with their programme directo
 
 | Title                                | Teaching  | In-term   | January   | Unit page | Catalogue Page |
 |--------------------------------------|-----------|-----------|-----------|-----------|----------------|
-| Advanced Algorithms                  | COMS30042 | -         | COMS30041 |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS30042) |
+| Advanced Algorithms                  | COMS30042 | -         | COMS30041 | [unit page](http://people.cs.bris.ac.uk/~clifford/coms31900-2021/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS30042) |
 | Artificial Intelligence              | COMS30014 | COMS30012 | COMS30013 |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS30014) |
-| Computational Neuroscience           | COMS30017 | COMS30015 | COMS30016 |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS30017) |
+| Computational Neuroscience           | COMS30017 | COMS30015 | COMS30016 | [unit page](https://cs-uob.github.io/COMS30017/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS30017) |
 | Computer Graphics                    | COMS30020 | COMS30019 | COMS30018 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_5947643_1&course_id=_247706_1&mode=reset) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS30020) |
 | Cryptology                           | COMS30023 | COMS30022 | COMS30021 |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS30023) |
-| Design Verification                  | COMS30026 | COMS30025 | COMS30024 |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS30026) |
+| Design Verification                  | COMS30026 | COMS30025 | COMS30024 | [unit page](https://uobdv.github.io/Design-Verification/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS30026) |
 | Human-Computer Interaction           | COMS30029 | COMS30067 | COMS30027 |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS30029) |
 | Image Processing and Computer Vision | COMS30030 | COMS30031 | COMS30032 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_5946921_1&course_id=_247699_1&mode=reset) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS30030) |
 | Machine Learning                     | COMS30035 | COMS30034 | COMS30033 |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS30035) |
