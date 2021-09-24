@@ -63,10 +63,10 @@ Some units only offer a January assessment option.
 | Title                                           | Teaching  | In-term   | January   | Unit page | Catalogue Page |
 |-------------------------------------------------|-----------|-----------|-----------|-----------|----------------|
 | Advanced Cryptology                             | COMSM0042 | COMSM0041 | COMSM0040 |  |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0042) |
-| Advanced Topics in Programming Languages        | COMSM0067 | -         | COMSM0066 |  |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0067) |
+| Advanced Topics in Programming Languages        | COMSM0067 | -         | COMSM0066 | [unit page](https://bristolpl.github.io/APL-2021-Unit-Website/) |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0067) |
 | Advanced Topics in Theoretical Computer Science | COMSM0068 | -         | COMSM0069 |  |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0068) |
-| Applied Deep Learning                           | COMSM0045 | COMSM0044 | COMSM0043 |  |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0045) |
-| Cloud Computing and Big Data                    | COMSM0072 | COMSM0070 | COMSM0071 |  |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0072) |
+| Applied Deep Learning                           | COMSM0045 | COMSM0044 | COMSM0043 | [unit page](https://comsm0045-applied-deep-learning.github.io/) |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0045) |
+| Cloud Computing and Big Data                    | COMSM0072 | COMSM0070 | COMSM0071 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_247630_1&content_id=_5940072_1) |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0072) |
 | Human-Computer Interaction                      | COMS30029 | COMSM0113 | COMSM0114 |  |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS30029) |
 | Information Processing and the Brain            | COMSM0075 | COMSM0074 | COMSM0073 |  |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0075) |
 | Internet Economics and Financial Technology     | COMSM0046 | COMSM0048 | COMSM0047 |  |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0046) |
@@ -108,8 +108,8 @@ On the conversion course, you will take the following units:
 | Code      | Title | Page | Catalogue Page |
 |-----------|-------|------|----------------|
 | COMSM0084 | Introduction to Computer Science |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0084) |
-| COMSM1201 | Programming in C |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM1201) |
-| COMSM1302 | Overview of Computer Architecture |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM1302) |
+| COMSM1201 | Programming in C | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_247602_1&content_id=_5641926_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM1201) |
+| COMSM1302 | Overview of Computer Architecture | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_247601_1&content_id=_5937154_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM1302) |
 | COMSM0085 | Overview of Software Tools |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0085) |
 | COMSM0086 | Object-Oriented Programming with Java |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0086) |
 | COMSM1401 | Overview of Software Engineering |   | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0110) |
