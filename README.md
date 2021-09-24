@@ -70,7 +70,7 @@ Some units only offer a January assessment option.
 | Human-Computer Interaction                      | COMS30029 | COMSM0113 | COMSM0114 |  |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS30029) |
 | Information Processing and the Brain            | COMSM0075 | COMSM0074 | COMSM0073 |  |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0075) |
 | Internet Economics and Financial Technology     | COMSM0046 | COMSM0048 | COMSM0047 |  |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0046) |
-| Systems and Software Security                   | COMSM0049 | COMSM0051 | COMSM0050 |  |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0049) |
+| Systems and Software Security                   | COMSM0049 | COMSM0051 | COMSM0050 | [unit page](https://cs-uob.github.io/COMSM0049/) |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0049) |
 
 # Year 3 and 4, Teaching Block 2 - project units
 
