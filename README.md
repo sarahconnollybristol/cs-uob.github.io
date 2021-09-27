@@ -28,10 +28,10 @@ TB4 means that a unit runs across the entire academic year.
 | Code | Title | Teaching Block | Credits | Unit page | Catalogue Page |
 |------|-------|----------------|---------|-----------|----------------|
 | COMS20006 | Software Engineering Project          | TB4 | 20 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_247720_1&content_id=_5949197_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS20006) |
-| COMS20007 | Programming Languages and Computation | TB1 | 20 |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS20007) |
+| COMS20007 | Programming Languages and Computation | TB1 | 20 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_6099302_1&course_id=_247719_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS20007) |
 | COMS20008 | Computer Systems A                    | TB1 | 20 | [unit page](https://uob-csa.github.io/website/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS20008) |
 | COMS20009 | Interaction and Society               | TB2 | 20 |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS20009) |
-| COMS20010 | Algorithms II                         | TB1 | 10 |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS20010) |
+| COMS20010 | Algorithms II                         | TB1 | 10 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_247716_1&content_id=_5948731_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS20010) |
 | COMS20011 | Data-Driven Computer Science          | TB2 | 10 |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS20011) |
 | COMS20012 | Computer Systems B                    | TB2 | 20 |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS20012) |
 
@@ -64,7 +64,7 @@ Some units only offer a January assessment option.
 |-------------------------------------------------|-----------|-----------|-----------|-----------|----------------|
 | Advanced Cryptology                             | COMSM0042 | COMSM0041 | COMSM0040 |  |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0042) |
 | Advanced Topics in Programming Languages        | COMSM0067 | -         | COMSM0066 | [unit page](https://bristolpl.github.io/APL-2021-Unit-Website/) |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0067) |
-| Advanced Topics in Theoretical Computer Science | COMSM0068 | -         | COMSM0069 |  |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0068) |
+| Advanced Topics in Theoretical Computer Science | COMSM0068 | -         | COMSM0069 | [unit page](http://people.cs.bris.ac.uk/~konrad/courses/2021_2022_COMSM0068/comsm0068.html) |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0068) |
 | Applied Deep Learning                           | COMSM0045 | COMSM0044 | COMSM0043 | [unit page](https://comsm0045-applied-deep-learning.github.io/) |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0045) |
 | Cloud Computing and Big Data                    | COMSM0072 | COMSM0070 | COMSM0071 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_247630_1&content_id=_5940072_1) |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0072) |
 | Human-Computer Interaction                      | COMS30029 | COMSM0113 | COMSM0114 |  |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS30029) |
