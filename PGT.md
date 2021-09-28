@@ -1,41 +1,42 @@
 # Conversion Course (PGT / Postgraduate Taught) Information
 
+Welcome to the University of Bristol Computer Science Conversion MSc! See below for a timetable and calendar of topics and important dates for each unit. 
+The PGT Handbook is located [here](cs-uob.github.io/PGT/Handbook) and has general information about the course.
+
 ## Weekly Schedule
 
-| Time | Monday | Tuesday | Wednesday | Thursday | Friday |
-| :--- | :---:  | :---:   | :---:     | :---:    | :---:  |
-| 09:00 |       |         |           |          | [Academic Tutorial](https://teams.microsoft.com/l/team/19%3a7807ee64a1d343cd8e9fcd020ceff372%40thread.tacv2/conversations?groupId=5519f6d5-7f42-4b56-ab80-f60123e60a21&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b)* |
-| 10:00 |       |  **     |           | [Software Engineering Lab](https://teams.microsoft.com/l/channel/19%3a9266f9de099c4c589276fcc8467fafae%40thread.tacv2/Thursday?groupId=a9a647c8-66d1-4f10-bd04-9a5ed3f67e7b&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b) | [Academic Tutorial](https://teams.microsoft.com/l/team/19%3a7807ee64a1d343cd8e9fcd020ceff372%40thread.tacv2/conversations?groupId=5519f6d5-7f42-4b56-ab80-f60123e60a21&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b)* |
-| 11:00 | [OOP/Java Q&A](https://teams.microsoft.com/l/channel/19%3aa36bf10343c24f15a5dd779f8ccdf2fe%40thread.tacv2/General?groupId=ae5b71e8-e396-438f-9f02-49f2682d64e6&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b) | ** |  | ** | [Academic Tutorial](https://teams.microsoft.com/l/team/19%3a7807ee64a1d343cd8e9fcd020ceff372%40thread.tacv2/conversations?groupId=5519f6d5-7f42-4b56-ab80-f60123e60a21&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b)* |
-| 12:00 |       |         |           | **       |        |
-| 13:00 |       | [Software Engineering Lab](https://teams.microsoft.com/l/channel/19%3a6c1876238fb84cd890a43b1273e0aebf%40thread.tacv2/Tuesday?groupId=a9a647c8-66d1-4f10-bd04-9a5ed3f67e7b&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b) | [Optional Study Session](https://teams.microsoft.com/l/team/19%3af0c302d4690d440ca573f6927e967305%40thread.tacv2/conversations?groupId=bd43d4b1-fb60-485c-89f0-15151b964d51&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b)*** | [Software Tools Lab](https://teams.microsoft.com/l/channel/19%3a6fd0f6a548184f3a9bc6a29516b5c6ee%40thread.tacv2/Q%2520and%2520A?groupId=a2f0a2bd-4214-4ddb-8c68-f20723d0bd4c&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b)<br>([On-campus option](https://doodle.com/poll/hfi4wcmefmswqqbx?utm_source=poll&utm_medium=link)) | [Office Hours](https://teams.microsoft.com/l/channel/19%3a7807ee64a1d343cd8e9fcd020ceff372%40thread.tacv2/General?groupId=5519f6d5-7f42-4b56-ab80-f60123e60a21&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b)**** |
-| 14:00 | [Software Tools Lab](https://teams.microsoft.com/l/channel/19%3a6fd0f6a548184f3a9bc6a29516b5c6ee%40thread.tacv2/Q%2520and%2520A?groupId=a2f0a2bd-4214-4ddb-8c68-f20723d0bd4c&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b)<br>([On-campus option](https://doodle.com/poll/hfi4wcmefmswqqbx?utm_source=poll&utm_medium=link)) |  | Optional Study Session (cont.)*** | Software Tools Lab (cont.) | Office Hours (cont.)**** |
-| 15:00 | Software Tools Lab (cont.) | [OOP/Java Lab](https://teams.microsoft.com/l/team/19%3aa36bf10343c24f15a5dd779f8ccdf2fe%40thread.tacv2/conversations?groupId=ae5b71e8-e396-438f-9f02-49f2682d64e6&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b)<br>([On-campus option](https://doodle.com/poll/4ggz392f5iqrwp5h?utm_source=poll&utm_medium=link)) |  | [On campus open lab hours](https://doodle.com/poll/ibc4q5a52ph9f65u?utm_source=poll&utm_medium=link) |  |
-| 16:00 |       | OOP/Java Lab (cont.) |   | On campus open lab hours (cont.) |        |
+| Time  | Monday | Tuesday | Wednesday | Thursday | Friday |
+| :---: | :---:  | :---:   | :---:     | :---:    | :---:  |
+| 09:00 | Computer Architecture Lab |         | Academic Tutorials* |          |        |
+| 10:00 | Computer Architecture Lab (cont.) |         | Academic Tutorials* | Programming in C Lab |        |
+| 11:00 | Computer Architecture Lab (cont.) | Programming in C | Academic Tutorials* | Programming in C Lab (cont.) |        |
+| 12:00 |        |         |           |          |        |
+| 13:00 | Intro to CS | Individual Tutorials** |           |          | Programming in C Lab |
+| 14:00 | Intro to CS (cont.) | Individual/ Group Tutorials** | Programming in C Lab |          | Programming in C Lab (cont.) |
+| 15:00 |        |         | Programming in C Lab (cont.) | Computer Architecture |        |
+| 16:00 |        |         |           |          |        |
 
-\*Academic tutorials: These are TA-led tutorials filled with useful information about the course and beyond. A _tentative_ schedule of topics is in the term calendar. You can find your group [here](https://teams.microsoft.com/l/file/8E1D22D0-1953-43AF-AEA9-FA0DDE185F71?tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b&fileType=pdf&objectUrl=https%3A%2F%2Fuob.sharepoint.com%2Fteams%2Fgrp-grp-COMSM1201copy%2FShared%20Documents%2FGeneral%2FGroups.pdf&baseUrl=https%3A%2F%2Fuob.sharepoint.com%2Fteams%2Fgrp-grp-COMSM1201copy&serviceName=teams&threadId=19:7807ee64a1d343cd8e9fcd020ceff372@thread.tacv2&groupId=5519f6d5-7f42-4b56-ab80-f60123e60a21).  
+\*Academic tutorials: These are TA-led tutorials filled with useful information about the course and beyond.  
 \*\*Individual/Group tutorials: These time slots are reserved for individual and group tutorials. These will vary week to week and student to student. Check your individual timetable and look out for emails from your tutor for information about when and how to meet.  
-\*\*\*This Wednesday afternoon timeslot is a recommended time slot to work together in the [virtual lap space](https://teams.microsoft.com/l/team/19%3af0c302d4690d440ca573f6927e967305%40thread.tacv2/conversations?groupId=bd43d4b1-fb60-485c-89f0-15151b964d51&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b) that has been set up. This is optional and self-structured time, but is recommended for learning from each other and asking questions in between lab sessions.  
-\*\*\*\*A TA will be available during this time for drop-in questions about any units or course-related matters.
 
 ## Term Calendar
 
-| Week of | [OOP/Java](https://github.com/drslock/JAVA2020) | [Software Engineering](https://github.com/segp-uob/segp) | [Software Tools](https://cs-uob.github.io/COMSM0085/) | Academic Tutorials | Notes |
+| Week of | Computer Architecture | Intro to CS | Programming in C | Academic Tutorials | Notes |
 | :---    | :---: | :---: | :---: | :----: | :---: |
-| 1 Feb   | [Introduction to Objects](https://github.com/drslock/JAVA2020/tree/main/Weekly%20Workbooks/01%20Introduction%20to%20Objects) | [Introduction](https://github.com/segp-uob/segp/blob/main/dev/Worksheets/0_gettingstarted.md) | [Linux/POSIX, shell, git](https://cs-uob.github.io/COMSM0085/exercises/posix/) | Documentation |  |
-| 8 Feb   | [Further Language Constructs](https://github.com/drslock/JAVA2020/tree/main/Weekly%20Workbooks/02%20Further%20Language%20Constructs) | [Agile, team collaboration](https://github.com/segp-uob/segp/blob/main/dev/Worksheets/1_DevOps_Docker_CI.md) | [Linux/POSIX, shell, git](https://cs-uob.github.io/COMSM0085/exercises/posix/) | Functional Programming vs OOP |  |
-| 15 Feb  | [Polymorphism and Collections](https://github.com/drslock/JAVA2020/tree/main/Weekly%20Workbooks/03%20Polymorphism%20and%20Collections) | [System stack](https://github.com/segp-uob/segp/blob/main/dev/Worksheets/2_Angular_building_client_side.md) | Catch up/Q&A | Research Presentations | 16/2 @ 10:00: [Project Q&A](https://teams.microsoft.com/l/channel/19%3ae0e5d61994e544cb91c6467c6d7d1a78%40thread.tacv2/General?groupId=a7524922-3f0b-4e0b-af8e-40f5f415d3c4&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b)<br>Academic tutorials @ 11:00, choose channel by topic |
-| 22 Feb  | [Error Handling](https://github.com/drslock/JAVA2020/tree/main/Weekly%20Workbooks/04%20Error%20Handling) | [Front end](https://github.com/segp-uob/segp/blob/main/dev/Worksheets/3_Angular_dashboard.md) | [Databases (MariaDB)](https://cs-uob.github.io/COMSM0085/exercises/databases/) | Topic Presentations | 25/2 @ 11:30: PGT Town Hall<br>26/2 @ 13:00: **OOP/Java - OXO Due**<br>Academic tutorials @ 11:00, choose channel by topic |
-| 1 Mar   | [Code Quality](https://github.com/drslock/JAVA2020/tree/main/Weekly%20Workbooks/05%20Code%20Quality) | --- | --- | --- | READING WEEK |
-| 8 Mar   | [DB Brief](https://github.com/drslock/JAVA2020/tree/main/Weekly%20Workbooks/06%20Briefing%20on%20DB%20assignment) | [API Dev](https://github.com/segp-uob/segp/blob/main/dev/Worksheets/4_Launch_your_API.md) | [Databases (MariaDB)](https://cs-uob.github.io/COMSM0085/exercises/databases/)  | Project Info | 10/3 @ 15:30: [Project Proposals Intro](https://teams.microsoft.com/l/channel/19%3ae0e5d61994e544cb91c6467c6d7d1a78%40thread.tacv2/General?groupId=a7524922-3f0b-4e0b-af8e-40f5f415d3c4&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b) |
-| 15 Mar  | [Canvas Graphics](https://github.com/drslock/JAVA2020/tree/main/Weekly%20Workbooks/07%20Canvas%20Graphics) | [API Integration](https://github.com/segp-uob/segp/blob/main/dev/Worksheets/5_Deploying_with_Docker.md) | Catch up/Q&A | Project Info | 19/3 @ 13:30: [How to Start a Business Seminar](https://teams.microsoft.com/l/channel/19%3a7807ee64a1d343cd8e9fcd020ceff372%40thread.tacv2/General?groupId=5519f6d5-7f42-4b56-ab80-f60123e60a21&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b) |
-| 22 Mar  | [GUI Interfaces](https://github.com/drslock/JAVA2020/tree/main/Weekly%20Workbooks/08%20GUI%20Interfaces) | [Deployment & Testing](https://github.com/segp-uob/segp/blob/main/dev/Worksheets/6_Express_through_services.md) | [Build Systems](https://cs-uob.github.io/COMSM0085/materials.html) | Project Info | 24/3 @ 13:00: Extra office hours<br>26/3 @ 13:00: **OOP/Java - DB Due** |
-| 29 Mar  | --- | --- | --- | --- | EASTER BREAK |
-| 5 Apr   | --- | --- | --- | --- | EASTER BREAK |
-| 12 Apr  | --- | --- | --- | --- | EASTER BREAK |
-| 19 Apr  | [STAG Brief](https://github.com/drslock/JAVA2020/tree/main/Weekly%20Workbooks/09%20Briefing%20on%20STAG%20assignment) | [Sprints](https://github.com/segp-uob/segp/blob/main/dev/Worksheets/7_MongoDB_persistent_storage.md) | [Web technologies](https://cs-uob.github.io/COMSM0085/web/web.html) | Ethics | 21/4 @ 11:00: PGT Town Hall |
-| 26 Apr  | [Java Internals(https://github.com/drslock/JAVA2020/tree/main/Weekly%20Workbooks/10%20Java%20Internals) | Sprints | [Web Technologies](https://cs-uob.github.io/COMSM0085/web/web.html) | Tools 1 |  |
-| 3 May   | Secret | Sprints | Cloud | Tools 2 | 7/5 @ 13:00: **Software Engineering - Project Due** |
-| 10 May  | Secret | N/A | Revision | TBD | 13/5 @ 13:00: **Software Tools - Exam**<br>14/5 @ 13:00: **OOP/Java - STAG Due**<br>14/5 @ 13:00: **Project Proposal Due** |
-| Summer  | --- | --- | --- | --- | Work on project |
-| 13 Sept | --- | --- | --- | --- | 13/9 @ 13:00: **Summer Project Due** |
+| 27 Sept |       |       |       |        |       |
+| 4 Oct   |       |       |       |        |       |
+| 11 Oct  |       |       |       |        |       |
+| 18 Oct  |       |       |       |        |       |
+| 25 Oct  |       |       |       |        |       |
+| 1 Nov   |  ---  |  ---  |  ---  |   ---  | READING WEEK |
+| 8 Nov   |       |       |       |        |       |
+| 15 Nov  |       |       |       |        |       |
+| 22 Nov  |       |       |       |        |       |
+| 29 Nov  |       |       |       |        |       |
+| 6 Dec   |       |       |       |        |       |
+| 13 Dec  |       |       |       |        |       |
+| 20 Dec  |  ---  |  ---  |  ---  |   ---  | WINTER BREAK |
+| 27 Dec  |  ---  |  ---  |  ---  |   ---  | WINTER BREAK |
+| 3 Jan   |  ---  |  ---  |  ---  |   ---  | WINTER BREAK |
+| 10 Jan  |       |       |       |        |       |
+| 17 Jan  |       |       |       |        |       |
