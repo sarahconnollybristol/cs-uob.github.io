@@ -1,6 +1,7 @@
 # Programme
 
-[go to homepage](https://cs-uob.github.io/PGT/Homepage)
+
+After this text there is a link: [go to homepage](https://cs-uob.github.io/PGT/Homepage)
 
 ## Introduction
 
