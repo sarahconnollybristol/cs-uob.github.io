@@ -2,11 +2,10 @@
 
 ## Modules
 
-**Teaching Block 1**
-
-[Programming in C]()
-[Introduction to Computer Science]()
-[Computer Architecture]()
+**Teaching Block 1**  
+[Programming in C]()  
+[Introduction to Computer Science]()  
+[Computer Architecture]()  
 
 **Teaching Block 2**
 
