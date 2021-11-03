@@ -1,6 +1,6 @@
 # Programme
 
-[go to homepage](Homepage.md)
+[go to homepage](https://cs-uob.github.io/PGT/Homepage)
 
 ## Introduction
 
