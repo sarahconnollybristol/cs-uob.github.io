@@ -26,6 +26,7 @@ You **must** have access to a linux environment for this course.
 [Connecting to a lab machine remotely]()
 
 ## General Information  
+[Resources](https://cs-uob.github.io/PGT/General-Info/Resources)
 [Submission Instructions]()  
 [Time Management]()
 [Extensions]()  
