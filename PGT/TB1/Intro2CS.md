@@ -1,5 +1,6 @@
 # Introduction to Computer Science
 
+- Unit director: Oliver Ray and Paul Marshall 
 
 This unit provides an introduction to Computer Science for students who do not have a background in the subject. It aims to provide students with a broad overview of the discipline in terms of its history, key developments, its current role in society, industry and the wider economy, professional, legal and ethical issues, current research challenges, and career possibilities for Computer Science graduates.
 
@@ -18,10 +19,7 @@ On successful completion of this unit students will be able to:
 Teaching will be delivered through a combination of synchronous and asynchronous sessions, including lectures, practical activities supported by drop-in sessions, group work and self-directed exercises
 
 ### Assessment Details  
-20% individual coursework comprising a series of weekly on-line quizzes, and 80% group coursework comprising a 20-minute presentation and 2000-word report on a selected topic in computer science.
-
-Designed to give you some history and context for the study of computer science, as well as start you thinking about your summer projects. 
-(Yes, you should start thinking about it now!)
-- Unit director: Oliver Ray and Paul Marshall 
-- Assessment: 100% coursework (Usually a single essay or report)
+- 20% individual weekly online quizzes
+- 20% 20-minute group presentation
+- 60% 2000-word report on a selected topic in computer science
 - Credit points: 10
