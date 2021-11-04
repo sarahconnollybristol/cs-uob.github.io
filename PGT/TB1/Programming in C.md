@@ -20,5 +20,4 @@ Teaching will be delivered through a combination of synchronous and asynchronous
 - Credit points: 30
 
 ### Reading materials  
-- C by Dissection - Al Kelley and Ira Pohl
 - The C Programming Language - Brian Kernighan and Dennis Ritchie
