@@ -1,6 +1,6 @@
 # Introduction to Computer Science
 
-- Unit director: Oliver Ray and Paul Marshall 
+Unit director: Oliver Ray and Paul Marshall 
 
 This unit provides an introduction to Computer Science for students who do not have a background in the subject. It aims to provide students with a broad overview of the discipline in terms of its history, key developments, its current role in society, industry and the wider economy, professional, legal and ethical issues, current research challenges, and career possibilities for Computer Science graduates.
 
