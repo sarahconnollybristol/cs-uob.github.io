@@ -50,3 +50,26 @@ Everyone has unexpected circumstances - whether that be an illness, an emergency
 understands that and is happy to make reasonable accommodations. This 
 [form](https://apps.powerapps.com/play/3172b943-0956-4b88-bf3d-3f37871d1170?tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b) is the official method to apply for 
 extensions, log extenuating circumstances, and self-certify absences. 
+
+
+## External Resources
+
+As the saying goes, practice makes perfect. You’ll get some specific practice built into your program, but there’s always room for more. The internet is FULL 
+of ways to practice and improve your coding skills, but here is a collection of some of the more obvious ones. Find what motivates you, and get coding!
+- When it comes to interview practice there are two classics: [LeetCode](https://leetcode.com/), an online repository of interview coding questions of every 
+variety and at every level of difficulty; and [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/) (a.k.a. The Green Book), an in-depth, 
+step-by-step guide to coding interviews, complete with hundreds of practice problems (there are often PDF versions of this floating around if you ask your 
+TAs/coursemates). 
+- Hackathons are always a good way to improve your coding and potentially get noticed. Google’s [Kick Start](https://codingcompetitions.withgoogle.com/kickstart) 
+competitions are for those just breaking into the hackathon scene to get a feel for things. 
+- Open source projects are brilliant. You can help out someone else, make your mark on a project or product, and get experience, all in one go. Check out this 
+[UpForGrabs](https://github.com/up-for-grabs/up-for-grabs.net) GitHub repo, specifically designed to host projects for beginners. Or, if you have a pet project 
+you’d like to contribute to, keep an eye out for the “good first issue” label. If you really want to get into the spirit of things, consider 
+[Hacktoberfest](https://hacktoberfest.digitalocean.com/) or [24PullRequests](https://24pullrequests.com/) - open source challenges in October and December, 
+respectively.
+- If you’re on Twitter, consider the [#100daysofcode challenge](https://www.100daysofcode.com/), which encourages participants to code for at least an hour a 
+day for 100 days straight. Hey, you’ll be coding a lot anyway, might as well!
+- [FreeCodeCamp](https://www.freecodecamp.org/), [W3Schools](https://www.w3schools.com/), and various others provide free coding tutorials to help you get up 
+and going, or to teach you how to make that certain effect your website MUST have. It’s perfectly valid to use tutorials as a basis for your code so you don’t 
+have to reinvent the wheel. (Just remember to cite!)
+
