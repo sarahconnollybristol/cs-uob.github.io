@@ -23,3 +23,5 @@ Teaching will be delivered through a combination of synchronous and asynchronous
 - 20% 20-minute group presentation
 - 60% 2000-word report on a selected topic in computer science
 - Credit points: 10
+
+### Reading Materials
