@@ -16,7 +16,7 @@ On successful completion of this unit you will be able to:
 Teaching will be delivered through a combination of synchronous and asynchronous sessions, including lectures, practical activities supported by drop-in sessions, problem sheets and self-directed exercises.
 
 - Unit director: Neill Campbell 
-- Assessment: 90% coursework (Usually 4 coding assignments), 10% Lab exam (Normally 2 short coding problems to solve)
+- Assessment: 90% coursework (4 coding assignments), 10% Lab exam (2 short coding problems to solve)
 - Credit points: 30
 
 ### Reading materials  
