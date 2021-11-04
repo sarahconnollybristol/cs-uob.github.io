@@ -4,7 +4,7 @@ Often thought of as the hardest part of the course, this module launches you int
 
 This unit aims to introduce you to the basic principles of software engineering. Successful completion of this unit will enable you to program competently and apply good software engineering techniques, implement a set of standard algorithms and appreciate the importance of space, time complexity of algorithms and the difficulties which arise in large-scale software production.
 
-Intended learning outcomes
+### Intended learning outcomes  
 On successful completion of this unit you will be able to:
 
 1. Programme competently and apply good software engineering techniques
