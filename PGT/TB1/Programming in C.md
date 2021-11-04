@@ -2,7 +2,7 @@
 
 Often thought of as the hardest part of the course, this module launches you into programming in a fast-paced environment. It is normal to feel behind, especially at the beginning, but by the end you will have indespensible programming skills and knowledge to take with you into the rest of your career.
 
-This unit aims to introduce you to the basic principles of software engineering. Successful completion of this unit will enable you to program competently and apply good software engineering techniques, implement a set of standard algorithms, ppreciate the importance of space and time complexity of algorithms, appreciate the difficulties which arise in large-scale software production.
+This unit aims to introduce you to the basic principles of software engineering. Successful completion of this unit will enable you to program competently and apply good software engineering techniques, implement a set of standard algorithms, appreciate the importance of space and time complexity of algorithms, appreciate the difficulties which arise in large-scale software production.
 
 Intended learning outcomes
 On successful completion of this unit you will be able to:
