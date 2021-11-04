@@ -3,7 +3,7 @@
 ## Modules
 
 **Teaching Block 1**  
-[Programming in C]()  
+[Programming in C](https://cs-uob.github.io/PGT/Programming%20in%20C)  
 [Introduction to Computer Science]()  
 [Computer Architecture]()  
 
