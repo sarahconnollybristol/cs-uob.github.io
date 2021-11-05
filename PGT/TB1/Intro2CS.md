@@ -39,3 +39,9 @@ Teaching will be delivered through a combination of synchronous and asynchronous
 
 #### Human-Computer Interaction
 - Pinker S., The Sense of Style (Penguin, 2014)
+
+#### Artificial Intelligence
+- [This](http://aima.cs.berkeley.edu/) online book by Stuart Russell and Peter Norvig
+
+#### Theory of computation
+- Introduciton to the Theory of Computation - Michael Sipser
