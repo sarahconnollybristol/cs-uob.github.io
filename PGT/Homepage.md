@@ -26,9 +26,9 @@ You **must** have access to a linux environment for this course.
 [Connecting to a lab machine remotely](https://cs-uob.github.io/PGT/Setup/x2go)
 
 ## General Information  
-[Resources](https://cs-uob.github.io/PGT/General-Info/Resources)
+[Resources](https://cs-uob.github.io/PGT/General-Info/Resources)  
 [Submission Instructions]()  
-[Time Management]()
+[Time Management]()  
 [Extensions]()  
-[Careers](https://cs-uob.github.io/PGT/General-Info/Careers)
+[Careers](https://cs-uob.github.io/PGT/General-Info/Careers)  
 [FAQ](https://cs-uob.github.io/PGT/General-Info/FAQ)
