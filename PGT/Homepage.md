@@ -1,3 +1,4 @@
+<div align="center">
 # MSc Computer Science (Conversion)
 
 ## Modules
@@ -32,3 +33,4 @@ You **must** have access to a linux environment for this course.
 [Extensions]()  
 [Careers](https://cs-uob.github.io/PGT/General-Info/Careers)  
 [FAQ](https://cs-uob.github.io/PGT/General-Info/FAQ)
+</div>
