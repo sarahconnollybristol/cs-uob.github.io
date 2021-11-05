@@ -37,4 +37,4 @@ Teaching will be delivered through a combination of synchronous and asynchronous
 - Credit points: 20
 
 ### Reading Materials
-- Discrete Mathematics and it's Applications - Kenneth H. Rosen
+- Discrete Mathematics and it's Applications - Kenneth H. Rosen (Chapter 1)
