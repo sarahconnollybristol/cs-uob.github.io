@@ -8,7 +8,7 @@
 [Computer Architecture](https://cs-uob.github.io/PGT/TB1/Comp-Arch)  
 
 **Teaching Block 2**  
-[Object Oriented Programming with JAVA](https://cs-uob.github.io/PGT/TB2/JAVA)  
+[Object Oriented Programming with Java](https://cs-uob.github.io/PGT/TB2/JAVA)  
 [Software Tools](https://cs-uob.github.io/PGT/TB2/Software-Tools)  
 [Software Engineering](https://cs-uob.github.io/PGT/TB2/Software-Engineering)
 
