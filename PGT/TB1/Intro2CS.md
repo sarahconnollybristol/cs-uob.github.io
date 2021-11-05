@@ -16,7 +16,7 @@ On successful completion of this unit students will be able to:
 
 
 ### Teaching details  
-Teaching will be delivered through a combination of synchronous and asynchronous sessions, including lectures, practical activities supported by drop-in sessions, group work and self-directed exercises
+Teaching will be delivered through a combination of synchronous and asynchronous sessions, including lectures, practical activities supported by drop-in sessions, group work and self-directed exercises.
 
 ### Assessment Details  
 - 20% individual weekly online quizzes
