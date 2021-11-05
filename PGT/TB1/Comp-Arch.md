@@ -35,3 +35,6 @@ Teaching will be delivered through a combination of synchronous and asynchronous
 - 2 in-class tests (60% and 40%)
 - Unit director: Kerstin Eder (Weeks 1 - 6), Anas Shrinah (Weeks 7 - 12)
 - Credit points: 20
+
+### Reading Materials
+- Discrete Mathematics and it's Applications - Kenneth H. Rosen
