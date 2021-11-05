@@ -5,3 +5,6 @@ your summer project. You’ll gain valuable skills in project development and pi
 - Unit Director: Simon Lock and ????
 - Assessment: 100% coursework 
 - Credit points: 20
+
+### Reading Materials
+- Software Engineering - Ian Sommerville
