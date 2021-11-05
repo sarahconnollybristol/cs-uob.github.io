@@ -28,7 +28,7 @@ You **must** have access to a linux environment for this course.
 ## General Information  
 [Resources](https://cs-uob.github.io/PGT/General-Info/Resources)  
 [Submission Instructions]()  
-[Time Management]()  
+[Time Management](https://cs-uob.github.io/PGT/General-Info/Time-Management)  
 [Extensions](https://cs-uob.github.io/PGT/General-Info/Extensions)  
 [Careers](https://cs-uob.github.io/PGT/General-Info/Careers)  
 [FAQ](https://cs-uob.github.io/PGT/General-Info/FAQ)
