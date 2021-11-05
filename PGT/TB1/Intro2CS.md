@@ -25,9 +25,17 @@ Teaching will be delivered through a combination of synchronous and asynchronous
 - Credit points: 10
 
 ### Reading Materials
+
+#### General Computer Science Books
 - Dewdney, A.K., New Turing Omnibus (Palgrave Macmillan, 2003)
-- The Chartered Institute of IT, BCS Code of Conduct (British Computer Society, 2020): http://www.bcs.org/category/6030
 - Bott, F., Professional Issues in Information Technology (2nd Edition) (The British Computer Society, 2014)
 - Booth, W.C. et al., The Craft of Research (4th Edition) (University of Chicago Press, 2016)
+
+#### General Computer Science Web Resources
+- The Chartered Institute of IT, BCS Code of Conduct (British Computer Society, 2020): http://www.bcs.org/category/6030
+
+#### Research Practices
 - Sapsford, R. and Jupp, V.R., Data Collection and Analysis (2nd Edition) (Open University, 2006)
+
+#### Human-Computer Interaction
 - Pinker S., The Sense of Style (Penguin, 2014)
