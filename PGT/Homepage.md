@@ -23,7 +23,7 @@ You **must** have access to a linux environment for this course.
 [Accessing Windows Subsystem for Linux on Windows]()  
 [Setting up a Virtual Machine in Windows]()  
 [Setting up a Virtual Machine in MacOS]()  
-[Connecting to a lab machine remotely]()
+[Connecting to a lab machine remotely](https://cs-uob.github.io/PGT/Setup/x2go)
 
 ## General Information  
 [Resources](https://cs-uob.github.io/PGT/General-Info/Resources)
