@@ -1,4 +1,4 @@
-<p align="center">
+<p style="text-align: center;">
 # MSc Computer Science (Conversion)
 
 ## Modules
