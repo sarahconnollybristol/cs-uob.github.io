@@ -32,16 +32,6 @@ On successful completion of this unit students will be able to:
 Teaching will be delivered through a combination of synchronous and asynchronous sessions, including lectures and programming activities supported by help sessions, problem sheets and/or self-directed exercises.
 
 ### Assessment Details  
-2 in-class tests (60% and 40%)
-
-
-
-
-
-
-
-You’ll learn everything from boolean algebra and basic logic operators all the way up to memory structures and programming in ARM assembly. 
-It really is a little bit of everything. Fast-paced but fascinating!
-- Unit director: Kerstin Eder (???)
-- Assessment: Examined (Usually a lab quiz and 2 exams)
+- 2 in-class tests (60% and 40%)
+- Unit director: Kerstin Eder (Weeks 1 - 6), Anas Shrinah (Weeks 7 - 12)
 - Credit points: 20
