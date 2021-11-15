@@ -15,7 +15,7 @@
 **Teaching Block 3**  
 [Summer Project](https://cs-uob.github.io/PGT/Summer/Summer-Project)
 
-**Other**
+**Other**  
 [Program Tutorials](https://cs-uob.github.io/PGT/Programme-Tutorials/Programme-Tutorials)
 
 ## Setting up your environment (pre study)  
