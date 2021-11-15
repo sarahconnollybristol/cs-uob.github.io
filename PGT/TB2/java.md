@@ -17,3 +17,6 @@ On successful completion of this unit, students will be able to:
 - Unit director: Simon Lock
 - Assessment: 100% coursework (Usually 3 coding assignments)
 - Credit points: 20
+
+### Before the course  
+You will probably want to develop your code in an IDE, this provides all kinds of shortcuts and conveniences when coding and so we recommend [Intellij IDEA](https://www.jetbrains.com/idea/download/#section=linux).
