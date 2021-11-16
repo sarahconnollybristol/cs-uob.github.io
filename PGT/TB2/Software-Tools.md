@@ -28,3 +28,11 @@ After successful completion of this unit, students will be able to:
 - Unit director: Alex Kaavos
 - Assessment: Examined (Usually a single final exam)
 - Credit points: 20
+
+### Reading:
+- Karwin, Bill and Carter, Jacquelyn, SQL Antipatterns: Avoiding the Pitfalls of Database Programming (Pragmatic Bookshelf, 2010) ISBN: 978-1934356555
+- Sanderson, Dan, Programming Google App Engine with Java: Build and Run Scalable Web Applications on Google’s Infrastructure (O’Reilly, 2015) ISBN: 978-1491900208
+- McConnell, Steve, Code Complete: A practical handbook of software construction (2nd edition) (Microsoft Press, 1993) ISBN: 978-1556154843
+- Duckett, Jon, HTML and CSS: Design and Build Websites (John Wiley & Sons, 2011) ISBN: 978-1118008188. This book doesn’t go as far as we do in the unit, but may be a useful reference for non-native English speakers.
+- Robbins, Jennifer Niederst, Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics, 5th edition (O'Reilly Media, 2018) ISBN: 978-1491960202
+- Chacon, Scott and Straub, Ben, Pro Git, 2nd edition (Apress, 2014) ISBN: 978-1484200766. Available free online at https://git-scm.com/book/en/v2
