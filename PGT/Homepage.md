@@ -2,17 +2,17 @@
 
 ## Modules
 
-**Teaching Block 1 (September - January)**  
+**Teaching Block 1**  
 [Programming in C](https://cs-uob.github.io/PGT/TB1/Programming%20in%20C)  
 [Introduction to Computer Science](https://cs-uob.github.io/PGT/TB1/Intro2CS)  
 [Computer Architecture](https://cs-uob.github.io/PGT/TB1/Comp-Arch)  
 
-**Teaching Block 2 (January - May)**  
+**Teaching Block 2**  
 [Object Oriented Programming with Java](https://cs-uob.github.io/PGT/TB2/java)  
 [Software Tools](https://cs-uob.github.io/PGT/TB2/Software-Tools)  
 [Software Engineering](https://cs-uob.github.io/PGT/TB2/Software-Engineering)
 
-**Summer Term (May - September)**  
+**Summer Term**  
 [Summer Project](https://cs-uob.github.io/PGT/Summer/Summer-Project)
 
 **Other**  
