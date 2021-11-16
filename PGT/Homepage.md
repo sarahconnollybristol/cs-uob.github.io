@@ -29,7 +29,7 @@ You **must** have access to a linux environment for this course.
 [Resources](https://cs-uob.github.io/PGT/General-Info/Resources)  
 [Plagiarism](https://cs-uob.github.io/PGT/General-Info/Plagiarism)  
 [Intellectual Property](https://cs-uob.github.io/PGT/General-Info/IP)  
-[Submission Instructions]()  
+[Submission Instructions](https://cs-uob.github.io/PGT/General-Info/Submissions)  
 [Time Management](https://cs-uob.github.io/PGT/General-Info/Time-Management)  
 [Extensions](https://cs-uob.github.io/PGT/General-Info/Extensions)  
 [Careers](https://cs-uob.github.io/PGT/General-Info/Careers)  
