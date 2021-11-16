@@ -27,7 +27,7 @@ After successful completion of this unit, students will be able to:
 
 ### Assessment
 - Unit director: Alex Kaavos
-- Assessment: Examined (Usually a single final exam)
+- Assessment: 100% coursework
 - Credit points: 20
 
 ### Reading:
