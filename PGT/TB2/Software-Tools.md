@@ -27,7 +27,7 @@ After successful completion of this unit, students will be able to:
 
 ### Assessment
 - Unit director: Alex Kavvos
-- Assessment: 100% coursework
+- Assessment: 100% single lab exam
 - Credit points: 20
 
 ### Reading:
