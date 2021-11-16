@@ -26,7 +26,7 @@ After successful completion of this unit, students will be able to:
 
 
 ### Assessment
-- Unit director: Alex Kaavos
+- Unit director: Alex Kavvos
 - Assessment: 100% coursework
 - Credit points: 20
 
