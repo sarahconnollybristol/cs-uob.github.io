@@ -12,7 +12,7 @@ Lecturers may give you specific instructions with their coursework submissions, 
 5. Find "Browse local files", find the file you wish to submit and click "Submit"
 ![](Images/Submissions/upload.png?raw=true)
 6. You should see a screen similar to this and you have finished
-![](Images/Submissions/bb==complete.png?raw=true)
+![](Images/Submissions/complete.png?raw=true)
 
 Your lecturer will only ever see the most recent submission you have made.
 
