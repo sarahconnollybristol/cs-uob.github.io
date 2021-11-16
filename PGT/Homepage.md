@@ -12,7 +12,7 @@
 [Software Tools](https://cs-uob.github.io/PGT/TB2/Software-Tools)  
 [Software Engineering](https://cs-uob.github.io/PGT/TB2/Software-Engineering)
 
-**Teaching Block 3**  
+**Summer Term**  
 [Summer Project](https://cs-uob.github.io/PGT/Summer/Summer-Project)
 
 **Other**  
