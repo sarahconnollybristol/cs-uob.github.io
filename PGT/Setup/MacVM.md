@@ -9,6 +9,8 @@ https://mac.getutm.app/gallery/ubuntu-20-04
 After installing UTM and downloading the Ubuntu .iso file you can follow the instructions from the link above. The pictures will get you as far as installing the Ubuntu machine command line interface, and after this there are a few commands to install the GUI (the stuff that lets you use web browsers etc...)
  
 Once you reach the screenshot below, your screen will look slightly different. You will need to access the drop-down menu and browse your computer for the Ubuntu .iso file you downloaded earlier. This is crucial for running the Ubuntu VM. 
+
+![](Images/UTM/browse.png)
  
 After you've configured all this, you will be greeted with a command line installation of Ubuntu, you will want to accept the defaults for everyhthing and then reboot. At some point the installation will ask you if you are sure you want to wipe the disk (or something like that), don't worry- this is just wiping the VM, not your actual computer. If the reboot is taking a long time and nothing i shappening on screen, force the VM shut down by clicking the square stop button and restart it with the play button. 
  
