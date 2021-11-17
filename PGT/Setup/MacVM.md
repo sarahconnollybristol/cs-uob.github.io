@@ -15,6 +15,10 @@ Once you reach the screenshot below, your screen will look slightly different. Y
 After you've configured all this, you will be greeted with a command line installation of Ubuntu, you will want to accept the defaults for everyhthing and then reboot. At some point the installation will ask you if you are sure you want to wipe the disk (or something like that), don't worry- this is just wiping the VM, not your actual computer. If the reboot is taking a long time and nothing i shappening on screen, force the VM shut down by clicking the square stop button and restart it with the play button. 
  
 Once you have a working command line for ubuntu, you can run the commands at the bottom of the instructions page linked above. Again, you'll command the machine to reboot and it might not reboot properly. If it gets stuck just force it to exit and restart the VM. 
- 
-If you have any difficulties please comment them on this post so everyone can benefit 
+
+
+
+when you get to this point make sure that you have created 2 drivers. One with "removable" unticked, and one with "removable" ticked
+
+![](Images/UTM/new-drive.png)
 
