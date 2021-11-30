@@ -3,12 +3,4 @@
 This MSc will demand all of your time, and so it is not advised to accompany this course with a part time job or any volunteering.
 
 ### Study Time  
-The university recommends that for every credit point, you spend 10 hours workng.
-- A 20 credit point unit demands 200 hours of work
-- There are 12 weeks in each teaching bloc, with week 12 for exams, and typically no new material in week 11
-- This equates for 10 hours per week, per 10 credit points
-- Each teaching bloc consists of 3 modules with a total of 60 credit points
-- You are recommended to spend 60 hours a week studying, or rather 12 hours a day in a Monday - Friday working week
-- This includes any time spent in lectures, labs or seminars.
-
-Now **don't panic**, this is what is recommended, and most students will not keep up with such a high workload. It is certainly not required that you spend 12 hours a day working in order to acheive good results. However, this information should illustrate how important it is to focus the bulk of your time on your studies and refrain from taking too much time out for other activities.
+The course has been designed so that you can overcome the problems presented to you within a typical work week. This would be around 40 hours a week, depending on ability and pre-existing experience in the field. Naturally, some students will work more than this with the goal of acheiving higher marks. With this in consideration, we recommend that you continually value your mental health throughout this course. Pushing yourself into late working days and high stress situations will make you unhealthy whilst also making you a worse programmer. Working 8am - 8pm every day will make you worse at programming than working 9am - 6pm. If you can work 9am - 6pm without a netflix break or a long walk/nap/ whatever your procrastination is, then you should have ample time to fulfill the requirements of this course.
