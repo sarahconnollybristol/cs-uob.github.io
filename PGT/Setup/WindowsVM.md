@@ -88,19 +88,17 @@ https://ubuntu.com/download/desktop
 
 ![](Images/Win-VB/ubuntu%20install/6.png)
 
-23. Installation complete - click "restart now"
-
 ![](Images/Win-VB/ubuntu%20install/7.png)
 
-24. You will be prompted to remove the installation medium - press enter
+23. Installation complete - click "restart now"
 
-![](Images/Win-VB/ubuntu%20install/8.png)
+24. You will be prompted to remove the installation medium - press enter
 
 25. The VM will restart
 
 26. You now have a VM running (in a tiny window) - we need to change this
 
-![](Images/Win-VB/ubuntu%20install/9.png)
+![](Images/Win-VB/ubuntu%20install/8.png)
 
 You're done!
 
