@@ -61,7 +61,7 @@ https://ubuntu.com/download/desktop
 
 15. Once the VM has spun up you will see a screen promt to "Try Ubuntu" or "install Ubuntu" - choose install
 
-![](Images/Win-VB/ubuntu\ install/1.png)
+![](Images/Win-VB/ubuntu-install/1.png)
 
 16. Choose language
 
