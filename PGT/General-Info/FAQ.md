@@ -64,7 +64,7 @@ Cotterell (beth.cotterell@bristol.ac.uk). Part of her remit is to act as an inte
 of contact specific to CS, while also providing IT services with a “big picture” view of shared problems or requirements.
 
 Q: **Do you assess how well groups work for group projects?**  
-A: An individual engagement assessment will be worth 10% of the final mark for all group projects. I don’t know exactly what this assessment will entail.
+A: An individual engagement assessment will be worth 10% of the final mark for all group projects.
 
 Q: **Should I include an Appendix for X in my report?**
 A: The best way to think of an appendix is as content that could be of use, but is not crucial to understanding the dissertation. In line with most research 
