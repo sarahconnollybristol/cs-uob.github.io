@@ -112,9 +112,9 @@ You're done!
 
 ![](Images/Win-VB/ubuntu%20install/10.png)
 
-3. press your host key with 'F' to go full screen - notice the vm screen size doesn't change
-
 ![](Images/Win-VB/ubuntu%20install/11.png)
+
+3. press your host key with 'F' to go full screen - notice the vm screen size doesn't change
 
 4. Click on the square grid (bottom left) to see your applciations
 
@@ -129,3 +129,15 @@ You're done!
 9. run "sudo apt update && sudo apt upgrade && sudo apt install gcc"
 
 All done! To exit the VM you can shut it down like a regular PC and start it from VirtualBox.
+
+![](Images/Win-VB/ubuntu%20install/12.png)
+
+![](Images/Win-VB/ubuntu%20install/13.png)
+
+![](Images/Win-VB/ubuntu%20install/14.png)
+
+![](Images/Win-VB/ubuntu%20install/15.png)
+
+![](Images/Win-VB/ubuntu%20install/16.png)
+
+![](Images/Win-VB/ubuntu%20install/17.png)
