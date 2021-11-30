@@ -23,14 +23,6 @@ If you miss classes or assignments, you will fall behind. The possible exception
 It is up to you, your supervisor(s) and advisor(s), and any group mates to determine if you think a holiday is feasible. If well-managed though, the summer 
 does allow some space for a reasonable holiday.
 
-Q: **Why is everything still online?**  
-A: The 2020/2021 school year was extraordinarily difficult due to the ever-changing nature of the programme. The announced intention of blended learning with 
-as much in-person activity as possible was never able to be fully realised due to government restrictions. It is still not known what the winter of 2021/2022 
-will look like. The university is being cautious with its promises and ensuring that staff are prepared to present courses fully online if it becomes necessary. 
-In order to prevent scrambling to and from physical lectures, it was decided to present the lecture material virtually, especially since so many lecturers 
-prepared such excellent academic materials last year. If government restrictions allow, all lab times should offer an in-person option, which we encourage you 
-to take advantage of. 
-
 Q: **What if I get ill or have an emergency and can’t complete my coursework?**  
 A: The university understands that sometimes circumstances beyond your control impact your studies. The process begins with the extenuating circumstances 
 form, which enables you to detail your circumstances and what kind of allowance you’re requesting (e.g. would you like an extension? Special consideration 
