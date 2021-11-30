@@ -106,9 +106,15 @@ You're done!
 
 1. At the bottom right of the VM there will be a small bit of text which refers to your host key. You need to remember what that is! Mine says "RIGHT ALT". We need to remember this because we need to be able to toggel full screen.
 
+![](Images/Win-VB/ubuntu%20install/9.png)
+
 2. (If you want to change it, go to File -> preferences -> Input and click on the text next to "host key" and press the key you would prefer)
 
+![](Images/Win-VB/ubuntu%20install/10.png)
+
 3. press your host key with 'F' to go full screen - notice the vm screen size doesn't change
+
+![](Images/Win-VB/ubuntu%20install/11.png)
 
 4. Click on the square grid (bottom left) to see your applciations
 
