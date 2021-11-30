@@ -9,11 +9,11 @@ These sessions run throughout the year until the Summer Project starts in May.
 - Credit points: 0
 
 ### Worksheets
-[Introduction to Linux](linux-tutorial.pdf)
-[Example Makefile](Makefile)
-[Debugging in C](debugging.pdf)
-[Testing in C](testing.pdf)
-[Finite State Machines Harry Potter](FSM-Harry Potter.pdf)
-[Finite State Machines Harry Potter2](FSM-Harry Potter-2.pdf)
-[Algorithm Complexity](complexity.pdf)
-[Setting up ARM assembly debugger](arm-1.pdf)
+[Introduction to Linux](linux-tutorial.pdf)  
+[Example Makefile](Makefile)  
+[Debugging in C](debugging.pdf)  
+[Testing in C](testing.pdf)  
+[Finite State Machines Harry Potter](FSM-Harry Potter.pdf)  
+[Finite State Machines Harry Potter2](FSM-Harry Potter-2.pdf)  
+[Algorithm Complexity](complexity.pdf)  
+[Setting up ARM assembly debugger](arm-1.pdf)  
