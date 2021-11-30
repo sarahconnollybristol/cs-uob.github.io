@@ -14,6 +14,6 @@ These sessions run throughout the year until the Summer Project starts in May.
 [Debugging in C](debugging.pdf)  
 [Testing in C](testing.pdf)  
 [Finite State Machines Harry Potter](FSM-Harry%20Potter.pdf)  
-[Finite State Machines Harry Potter2](FSM-Harry%20Potter-2.pdf)  
+[Finite State Machines Harry Potter 2](FSM-Harry%20Potter-2.pdf)  
 [Algorithm Complexity](complexity.pdf)  
 [Setting up ARM assembly debugger](arm-1.pdf)  
