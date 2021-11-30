@@ -53,16 +53,10 @@ A: A group (as a whole) has no advantage over an individual project (or vice ver
 n times as much output; working in this mode simply allows a larger challenge to be addressed via collaboration, with each group member assessed in a comparable 
 way to the individual (even if the precise deliverables differ). 
 
-Q: **I’m confused about the issues of health and safety and ethics; what do I need to do?**  
-A: Although you might not have considered it as an issue in the context of your project, all projects must adhere to the same set of University-wide rules. 
-They may seem more applicable to things like Medicine, but they are nevertheless binding to all university projects. A detailed overview of health and safety 
-requirements and processes can be found here. Questions about ethics are covered in section ???.
-
 Q: **I need to buy X for my project; will the department pay for it?**  
 A: It depends. Your supervisor is your best point of contact, as, if your research aligns with theirs, they will likely be able to fund whatever you need out 
 of their research budget. Your industry partners, if you have them, may also be able to provide necessary hardware or software access to support your project. 
-As a last option, there is also a small SCEEM budget for small items that may prove useful in later years as well. You can email the Tech Hub 
-(engf-tech-hub@bristol.ac.uk) for more information. They may be able to help you navigate getting what you need. 
+As a last option, there is also a small SCEEM budget for small items that may prove useful in later years as well. You can email the [Tech Hub](engf-tech-hub@bristol.ac.uk) for more information. They may be able to help you navigate getting what you need. 
 
 Q: **I have some specific IT needs, who should I contact?**  
 A: Although your supervisor is typically your best first point of contact, the department has a dedicated Teaching Technologist who can help, namely Beth 
