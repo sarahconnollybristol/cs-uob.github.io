@@ -64,6 +64,8 @@ https://ubuntu.com/download/desktop
 ![](Images/Win-VB/ubuntu%20install/1.png)
 
 16. Choose language
+
+
 ![](Images/Win-VB/ubuntu%20install/2.png)
 
 17. Leave installation type as normal and click continue
