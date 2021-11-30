@@ -7,3 +7,6 @@ These sessions run throughout the year until the Summer Project starts in May.
 - Unit director: Harry Field
 - Assessment: unassessed
 - Credit points: 0
+
+### Worksheets
+[Introduction to Linux](linux-tutorial.pdf)
