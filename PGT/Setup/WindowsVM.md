@@ -16,7 +16,7 @@ https://ubuntu.com/download/desktop
 
 ![](Images/Win-VB/vb-new.png)
 
-5. Fill in the details as:
+#### 5. Fill in the details as:
 - Name = Ubuntu
 - Type = Linux
 - Version = Ubuntu (64-bit)
