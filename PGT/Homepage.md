@@ -16,7 +16,7 @@
 [Summer Project](https://cs-uob.github.io/PGT/Summer/Summer-Project)
 
 **Other**  
-[Program Tutorials](https://cs-uob.github.io/PGT/Programme-Tutorials/Programme-Tutorials)
+[Programme Tutorials](https://cs-uob.github.io/PGT/Programme-Tutorials/Programme-Tutorials)
 
 ## Setting up your environment (pre study)  
 You **must** have access to a linux environment for this course.  
