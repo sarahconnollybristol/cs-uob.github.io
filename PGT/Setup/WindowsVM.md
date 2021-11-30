@@ -78,33 +78,29 @@ https://ubuntu.com/download/desktop
 
 19. Click "install now"
 
-![](Images/Win-VB/ubuntu%20install/5.png)
-
 20. Click "continue" on the prompt
-
-![](Images/Win-VB/ubuntu%20install/6.png)
 
 21. Select time zone
 
-![](Images/Win-VB/ubuntu%20install/7.png)
+![](Images/Win-VB/ubuntu%20install/5.png)
 
 22. Fill in name and password and click continue to begin installation (this will take a while)
 
-![](Images/Win-VB/ubuntu%20install/8.png)
+![](Images/Win-VB/ubuntu%20install/6.png)
 
 23. Installation complete - click "restart now"
 
-![](Images/Win-VB/ubuntu%20install/9.png)
+![](Images/Win-VB/ubuntu%20install/7.png)
 
 24. You will be prompted to remove the installation medium - press enter
 
-![](Images/Win-VB/ubuntu%20install/10.png)
+![](Images/Win-VB/ubuntu%20install/8.png)
 
 25. The VM will restart
 
 26. You now have a VM running (in a tiny window) - we need to change this
 
-![](Images/Win-VB/ubuntu%20install/11.png)
+![](Images/Win-VB/ubuntu%20install/9.png)
 
 You're done!
 
