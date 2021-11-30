@@ -5,6 +5,8 @@
 1. Download and install VirtualBox (select "Windows hosts"):
 https://www.virtualbox.org/wiki/Downloads
 
+![](Images/Win-VB/vb_site.png)
+
 2. Download Ubuntu (we are just downloading it for now):
 https://ubuntu.com/download/desktop
 
@@ -43,15 +45,23 @@ https://ubuntu.com/download/desktop
 
 11. Start the VM by selecting it in VirtualBox and clicking start
 
-![](Images/Win-VB/start_vm.png)
+![](Images/Win-VB/start.png)
 
 12. You are prompted to select the startup disk, click on the folder icon with a green bit
 
+![](Images/Win-VB/folder.png)
+
 13. Click "add" to navigate your filesystem for the Ubuntu iso file we downloaded earlier. Select this and click choose.
+
+![](Images/Win-VB/add.png)
 
 14. Now click "start" and the VM will start running
 
+![](Images/Win-VB/start_vm.png)
+
 15. Once the VM has spun up you will see a screen promt to "Try Ubuntu" or "install Ubuntu" - choose install
+
+![](Images/Win-VB/choose.png)
 
 16. Choose language
 
