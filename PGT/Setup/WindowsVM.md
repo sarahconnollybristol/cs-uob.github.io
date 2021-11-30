@@ -19,17 +19,31 @@ https://ubuntu.com/download/desktop
 - Type = Linux
 - Version = Ubuntu (64-bit)
 
+![](Images/Win-VB/vb-deets.png)
+
 6. Next page provide as much RAM as you like (The more you give, the faster the VM will be when it's running but the slower your other programs will run outside the VM)
+
+![](Images/Win-VB/vb-mem.png)
 
 7. Next page select "Create virtual hard disk now"
 
+![](Images/Win-VB/disk-now.png)
+
 8. Next page select "VDI"
+
+![](Images/Win-VB/vdi.png)
 
 9. Next page select "Dynamically allocated"
 
+![](Images/Win-VB/dynamic.png)
+
 10. Next page; toggle the ammount of space you want to reserve for the virtual machine, this can be whatever you like but MUST be >=10GB otherwise the installation won't work.
 
+![](Images/Win-VB/space.png)
+
 11. Start the VM by selecting it in VirtualBox and clicking start
+
+![](Images/Win-VB/start_vm.png)
 
 12. You are prompted to select the startup disk, click on the folder icon with a green bit
 
