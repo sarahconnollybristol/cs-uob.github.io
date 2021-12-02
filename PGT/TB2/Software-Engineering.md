@@ -15,8 +15,9 @@ Upon successful completion of this unit, students will be able to:
 - successfully apply management techniques in the planning and monitoring of software projects.
 
 ### Assessment
-- Unit Director: Simon Lock
-- Assessment: 100% coursework 
+- Unit Director: Simon Lock, Peter Bennett
+- 2 in person lab tests (accounting for 50% and 30% respectively)
+- Summer project plan accounting for 20%
 - Credit points: 20
 
 ### Reading Materials
