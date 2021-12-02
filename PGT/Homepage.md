@@ -13,7 +13,7 @@
 [Software Engineering](https://cs-uob.github.io/PGT/TB2/Software-Engineering)
 
 **Summer Term**  
-[Summer Project](https://cs-uob.github.io/PGT/placeholder)
+[Summer Project](https://cs-uob.github.io/PGT/Summer/Summer-Project)
 
 **Other**  
 [Programme Tutorials](https://cs-uob.github.io/PGT/Programme-Tutorials/Programme-Tutorials)
