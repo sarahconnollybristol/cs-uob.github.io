@@ -9,6 +9,8 @@ This unit aims to introduce you to the basic principles of software engineering.
 - [Exercises pdf](https://github.com/csnwc/Exercises-In-C/blob/main/exercisesInC.pdf)
 - [Data for completing assignments](https://github.com/csnwc/Data)
 
+([Blackboard page](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_5939249_1&course_id=_247624_1))
+
 ### Intended learning outcomes  
 On successful completion of this unit you will be able to:
 
