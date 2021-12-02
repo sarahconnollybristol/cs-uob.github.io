@@ -1,5 +1,7 @@
 # Overview of Software Tools
 
+Last year's materials for Software Tools can be found [here](https://cs-uob.github.io/COMSM0085/). These will be adapted for this year, so do not assume that your experience will be exactly the same, but if you are interested you can use it as a rough guide for what to expect.
+
 This unit will acquaint students with a collection of tools and frameworks that are used when undertaking large software development projects. It will support their group project work in COMSM1401 Software Engineering and Group Project, where they work in groups to create software that solves a problem for a real client, as well as preparing them for software development roles in their future career.
 
 ### In particular, the unit will focus on the following areas:
