@@ -28,8 +28,8 @@ and support this diversity while still rewarding higher-quality work (of whateve
 
 ### Group vs Individual projects  
 Head to one of the following links for more information about each path.
-[Group Projects](group)
-[Individual Projects](individual)
+[Group Projects](/group)
+[Individual Projects](/individual)
 
 #### Ethical Approval
 
