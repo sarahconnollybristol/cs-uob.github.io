@@ -96,8 +96,7 @@ asking about mental health and gathering data from a vulnerable population.
 department and takes photos of all the office doors. This would require a full ethics application, since it involves gathering information (namely, office numbers) 
 from participants without their consent.
 
-If your project is in this category, don’t panic! The next step is to make a formal Stage 1 ethics application to the FREC through the [OREMS tool]
-(https://orems.bristol.ac.uk/ActivityForm/Index). The application process is not hard. It involves filling out a short online form. You should also attach a 
+If your project is in this category, don’t panic! The next step is to make a formal Stage 1 ethics application to the FREC through the [OREMS tool](https://orems.bristol.ac.uk/ActivityForm/Index). The application process is not hard. It involves filling out a short online form. You should also attach a 
 Participant Information Sheet (PIS) and consent form, at minimum. The committee may ask for you to include additional documents as necessary. Typically if a 
 problem is “obviously harmless,” albeit not covered by the blanket ethics application, then it will be approved. That said, you must make your application well 
 in advance, as delays of three weeks or more are relatively common, and you will not be granted an extension if this stops you from completing your project before 
@@ -105,8 +104,6 @@ the due date. If your application is approved, then you will need to add a sente
 significant causes for concern, then they may ask you to make a Stage 2 ethics application. This is a more difficult affair, and if it happens then you should 
 think carefully about whether your planned experiments are crucial to the project. 
 
-
-## Final Dissertation: Include link ???
 
 ## Marking
 
