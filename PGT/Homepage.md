@@ -3,7 +3,7 @@
 ## Modules
 
 **Teaching Block 1**  
-[Programming in C](https://cs-uob.github.io/PGT/TB1/Programming%20in%20C)  
+[Programming in C](https://cs-uob.github.io/PGT/TB1/Programming%20in%20C)  ([BB](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_5939249_1&course_id=_247624_1))
 [Introduction to Computer Science](https://cs-uob.github.io/PGT/TB1/Intro2CS)  
 [Computer Architecture](https://cs-uob.github.io/PGT/TB1/Comp-Arch)  
 
