@@ -26,6 +26,11 @@ added emphasis on higher-level understanding and critical analysis. However, it 
 differ between project topics: this fact stems naturally from the vast diversity within Computer Science as a subject. Our goal is to recognise 
 and support this diversity while still rewarding higher-quality work (of whatever type) with higher marks.
 
+### Group vs Individual projects  
+Head to one of the following links for more information about each path.
+[Group Projects](group)
+[Individual Projects](individual)
+
 #### Ethical Approval
 
 Depending on the type of project and evaluation you are conducting, you may not need to make a full application to the Faculty Ethics Research 
@@ -222,15 +227,3 @@ to keep a working set of notes as you go (remembering your learning process can 
 at some point in the future, perhaps in a different part of your project. If you never saved this method or section, however, you’ll have to do the whole thing 
 from scratch again. Version control is your friend, for both your code and your report. Never assume that something you’ve written is useless. That useless code 
 will come back to haunt you in a few weeks when it’s the perfect solution to another problem but you never saved it. 
-
-# Academics
-
-## What do you Need?
-
-Gone are the days of using university computers for this degree. Although you could get away with not having a powerful computer in the past, it is becoming 
-increasingly difficult to complete this degree using university resources alone. The online nature of a large portion of the course means you should have a 
-reasonable laptop and high-speed internet access at a minimum. You will need to be on video chats for multiple hours a day, so solid internet access is 
-essential. You will also likely find it more convenient to download most of the programs you’re required to use, rather than trying to use a remote desktop 
-connection or work in the lab (as neither option is entirely reliable). 
-
-Additional textbooks or materials are occasionally recommended by a unit director, but are rarely required. 
