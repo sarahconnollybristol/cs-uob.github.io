@@ -60,4 +60,4 @@ vulnerable to procrastination and are likely to end up rushing things at the end
 
 Projects are assessed in August/September by a demonstration and viva relating to the work completed and by a report. In the case of 
 a group project, students do a joint demonstration and viva and submit both a joint report and individual reports, with the latter covering individual 
-contributions and evaluations of the project. (Do we have a percentage breakdown?)
+contributions and evaluations of the project. 
