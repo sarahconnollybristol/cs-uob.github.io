@@ -28,8 +28,8 @@ and support this diversity while still rewarding higher-quality work (of whateve
 
 ### Group vs Individual projects  
 Head to one of the following links for more information about each path.  
-[Group Projects](/group)  
-[Individual Projects](/individual)  
+[Group Projects](https://cs-uob.github.io/PGT/Summer/group)  
+[Individual Projects](https://cs-uob.github.io/PGT/Summer/individual)  
 
 #### Ethical Approval
 
