@@ -27,9 +27,9 @@ differ between project topics: this fact stems naturally from the vast diversity
 and support this diversity while still rewarding higher-quality work (of whatever type) with higher marks.
 
 ### Group vs Individual projects  
-Head to one of the following links for more information about each path.
-[Group Projects](/group)
-[Individual Projects](/individual)
+Head to one of the following links for more information about each path.  
+[Group Projects](/group)  
+[Individual Projects](/individual)  
 
 #### Ethical Approval
 
