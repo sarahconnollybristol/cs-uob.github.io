@@ -33,7 +33,6 @@ a document which outlines the topic and specified work involved;
 2. An execution phase (during the summer, full-time), in which you actually carry out the work specified; and 
 3. An assessed phase, (during the summer examination period) in which you deliver a report, a presentation, and optionally (depending on the project 
 type and topic) other deliverables so your work can be assessed.
-These three phases will vary significantly depending on the type of project (group or individual) you choose, and the topic of your project. 
 
 ### Phase 1: Specification
 
