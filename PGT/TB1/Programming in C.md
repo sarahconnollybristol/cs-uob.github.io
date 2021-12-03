@@ -6,7 +6,7 @@ This unit aims to introduce you to the basic principles of software engineering.
 
 ### Neill's module GitHub  
 - [Notes](https://github.com/csnwc/Notes)  
-- [Exercises pdf](https://csnwc.github.io/Exercises-In-C/blob/main/exercisesInC.pdf)
+- [Exercises pdf](https://github.com/csnwc/Exercises-In-C/raw/main/exercisesInC.pdf)
 - [Data for completing assignments](https://github.com/csnwc/Data)
 
 ### Intended learning outcomes  
