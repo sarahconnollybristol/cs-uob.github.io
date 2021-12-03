@@ -41,6 +41,7 @@ Teaching will be delivered through a combination of synchronous and asynchronous
 
 ### ARM Resources
 - [Azeria Labs](https://azeria-labs.com/writing-arm-assembly-part-1/) <- Most recommended
+- [An online book with exercises and hints/answers to work through](https://bob.cs.sonoma.edu/IntroCompOrg-RPi/intro-co-rpi.html)
 - [Tonic](https://www.coranac.com/tonc/text/asm.htm)
 - [Think In Geek](https://thinkingeek.com/arm-assembler-raspberry-pi/)
 - [ARM Documentation](https://developer.arm.com/documentation/dui0068/b)
