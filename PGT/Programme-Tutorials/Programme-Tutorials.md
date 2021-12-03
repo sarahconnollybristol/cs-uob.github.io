@@ -16,4 +16,4 @@ These sessions run throughout the year until the Summer Project starts in May.
 [Finite State Machines Harry Potter](FSM-Harry%20Potter.pdf)  
 [Finite State Machines Harry Potter 2](FSM-Harry%20Potter-2.pdf)  
 [Algorithm Complexity](complexity.pdf)  
-[Setting up ARM assembly debugger](arm-1.pdf) - Scripts: [au.sh](au.sh) [al.sh](al.sh) 
+[Setting up ARM assembly debugger](arm-1.pdf) - Scripts: [au.sh](au.sh) / [al.sh](al.sh) 
