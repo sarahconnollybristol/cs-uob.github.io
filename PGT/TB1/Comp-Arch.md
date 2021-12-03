@@ -38,3 +38,9 @@ Teaching will be delivered through a combination of synchronous and asynchronous
 
 ### Reading Materials
 - Discrete Mathematics and it's Applications - Kenneth H. Rosen (Chapter 1)
+
+### ARM Resources
+- [Azeria Labs](https://azeria-labs.com/writing-arm-assembly-part-1/) <- Most recommended
+- [Tonic](https://www.coranac.com/tonc/text/asm.htm)
+- [Think In Geek](https://thinkingeek.com/arm-assembler-raspberry-pi/)
+- [ARM Documentation](https://developer.arm.com/documentation/dui0068/b)
