@@ -8,7 +8,7 @@ Download and open UTM https://mac.getutm.app
 
 Create a new virtual machine by selecting 'start from scratch'
 
-<img src="https://github.com/cs-uob/cs-uob.github.io/blob/master/PGT/Setup/Images/AlpineM1/create-new-vm.png" height="400">
+<img src="https://github.com/cs-uob/cs-uob.github.io/blob/master/PGT/Setup/Images/AlpineM1/create-new-vm.png">
 
 ### Adjust information in the following tabs and fields
 
