@@ -7,9 +7,9 @@ Got to https://alpinelinux.org/downloads/ and download the virtual option in aar
 Download and open UTM https://mac.getutm.app  
 
 Create a new virtual machine by selecting 'start from scratch'
-
-<img src="Images/AlpineM1/create-new-vm.png" height="400"/>
-
+  
+<img src="Images/AlpineM1/create-new-vm.png"/>
+  
 ### Adjust information in the following tabs and fields
 
 - Information – name it alpine 
