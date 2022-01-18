@@ -1,7 +1,7 @@
 # Ubuntu Virtual Machine for Mac users (and M1 users)
  
 UTM will work for M1 macs
-https://getutm.app/
+[https://getutm.app/](https://getutm.app/)
  
 You will need to install UTM and download the Ubuntu driver. All the instructions you need are here:
 https://mac.getutm.app/gallery/ubuntu-20-04
