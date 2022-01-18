@@ -4,7 +4,8 @@ Got to [https://alpinelinux.org/downloads/](https://alpinelinux.org/downloads/) 
 
 <img src="Images/AlpineM1/alpine-virtual-download.png" width="40%"/>  
 
-Download and open UTM https://mac.getutm.app  
+Download and open UTM 
+[https://mac.getutm.app  ]
 
 Create a new virtual machine by selecting 'start from scratch'
   
@@ -30,7 +31,7 @@ You will see a localhost login prompt: Type ‘root’ and enter
 
 Run setup-alpine 
 
-You will be taken through the following setup process: https://wiki.alpinelinux.org/wiki/Alpine_setup_scripts#setup-alpine  
+You will be taken through the following setup process: [https://wiki.alpinelinux.org/wiki/Alpine_setup_scripts#setup-alpine  ]
 
 Select Keyboard layout: Select the correct one for your machine 
 
