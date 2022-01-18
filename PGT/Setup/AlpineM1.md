@@ -24,7 +24,7 @@ Select the alpine vm in UTM and see the drop down menu labelled CD/DVD. Select b
 
 Click the play button to start the VM 
 
-Inside the VM: 
+### Inside the VM: 
 
 You will see a localhost login prompt: Type ‘root’ and enter 
 
