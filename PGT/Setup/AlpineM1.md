@@ -5,7 +5,7 @@ Got to [https://alpinelinux.org/downloads/](https://alpinelinux.org/downloads/) 
 <img src="Images/AlpineM1/alpine-virtual-download.png" width="40%"/>  
 
 Download and open UTM 
-[https://mac.getutm.app  ]
+[https://mac.getutm.app]
 
 Create a new virtual machine by selecting 'start from scratch'
   
