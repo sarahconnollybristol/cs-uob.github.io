@@ -1,6 +1,6 @@
 # Install Alpine Linux on Apple Silicon
 
-Got to https://alpinelinux.org/downloads/ and download the virtual option in aarch64 format – save it somewhere you can find it later. 
+Got to [https://alpinelinux.org/downloads/](https://alpinelinux.org/downloads/) and download the virtual option in aarch64 format – save it somewhere you can find it later. 
 
 <img src="Images/AlpineM1/alpine-virtual-download.png" width="40%"/>  
 
