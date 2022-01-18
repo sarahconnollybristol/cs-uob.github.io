@@ -6,13 +6,13 @@ Got to https://alpinelinux.org/downloads/ and download the virtual option – sa
 
 Download and open UTM https://mac.getutm.app  
 
-Create a new virtual machine 
+Create a new virtual machine by selecting 'start from scratch'
 
 ![](Images/AlpineM1/create-new-vm.png)
 
-Adjust information in the following tabs and fields 
+### Adjust information in the following tabs and fields
 
-information – name it alpine 
+- Information – name it alpine 
 
 System – architecture = ARM64 (aarch64) 
 
