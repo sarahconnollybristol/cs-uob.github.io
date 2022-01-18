@@ -2,7 +2,7 @@
 
 Got to https://alpinelinux.org/downloads/ and download the virtual option – save it somewhere you can find it later. 
 
- 
+![](Images/AlpineM1/alpine-virtual-download.png)
 
 Download and open UTM https://mac.getutm.app  
 
@@ -13,16 +13,10 @@ Create a new virtual machine by selecting 'start from scratch'
 ### Adjust information in the following tabs and fields
 
 - Information – name it alpine 
-
-System – architecture = ARM64 (aarch64) 
-
-Drives – new drive – VirtIO (default) - size 4gb 
-
-Drives – new drive – tick removable – type = USB 
-
-Click save 
-
- 
+- System – architecture = ARM64 (aarch64) 
+- Drives – new drive – VirtIO (default) - size 4gb 
+- Drives – new drive – tick removable – type = USB 
+- Click save 
 
 Select the alpine vm in UTM and see the drop down menu labelled CD/DVD. Select browse from the menu and find the alpine ‘.iso’ file you downloaded earlier. 
 
