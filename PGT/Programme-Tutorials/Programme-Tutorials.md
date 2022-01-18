@@ -19,5 +19,5 @@ These sessions run throughout the year until the Summer Project starts in May.
 [Setting up ARM assembly debugger](arm-1.pdf) - Scripts: [au.sh](au.sh) / [al.sh](al.sh) 
 
 ### TB2  
-[SSH](SSH.pdf)  
-[SSH Quiz](https://web.edapp.com/lessons/61e14ee8212f3ba2e5588af8/)  
+[SSH](SSH.pdf) and the [SSH Quiz](https://web.edapp.com/lessons/61e14ee8212f3ba2e5588af8/).  
+
