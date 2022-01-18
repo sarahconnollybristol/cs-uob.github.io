@@ -1,8 +1,8 @@
 # Install Alpine Linux on Apple Silicon
 
-Got to https://alpinelinux.org/downloads/ and download the virtual option – save it somewhere you can find it later. 
+Got to https://alpinelinux.org/downloads/ and download the virtual option in aarch64 format – save it somewhere you can find it later. 
 
-![](Images/AlpineM1/alpine-virtual-download.png)
+![](Images/AlpineM1/alpine-virtual-download.png =250x)
 
 Download and open UTM https://mac.getutm.app  
 
