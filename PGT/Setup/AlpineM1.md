@@ -2,7 +2,7 @@
 
 Got to https://alpinelinux.org/downloads/ and download the virtual option in aarch64 format – save it somewhere you can find it later. 
 
-<img src="https://github.com/cs-uob/cs-uob.github.io/blob/master/PGT/Setup/Images/AlpineM1/alpine-virtual-download.png">  
+<img src="Images/AlpineM1/alpine-virtual-download.png">  
 
 ![](Images/AlpineM1/alpine-virtual-download.png)
 
