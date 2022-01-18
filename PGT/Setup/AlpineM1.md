@@ -20,7 +20,7 @@ Create a new virtual machine by selecting 'start from scratch'
 
 Select the alpine vm in UTM and see the drop down menu labelled CD/DVD. Select browse from the menu and find the alpine ‘.iso’ file you downloaded earlier. 
 
- 
+<img src="https://github.com/cs-uob/cs-uob.github.io/blob/master/PGT/Setup/Images/AlpineM1/alpine-setup-ready.png" height="600">
 
 Click the play button to start the VM 
 
