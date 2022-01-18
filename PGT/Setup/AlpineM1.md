@@ -3,13 +3,12 @@
 Got to https://alpinelinux.org/downloads/ and download the virtual option in aarch64 format – save it somewhere you can find it later. 
 
 <img src="Images/AlpineM1/alpine-virtual-download.png" width="40%"/>  
-<img src="Images/AlpineM1/alpine-virtual-download.png" width="40%"/>  
 
 Download and open UTM https://mac.getutm.app  
 
 Create a new virtual machine by selecting 'start from scratch'
 
-<img src="https://github.com/cs-uob/cs-uob.github.io/blob/master/PGT/Setup/Images/AlpineM1/create-new-vm.png" height="400"/>
+<img src="Images/AlpineM1/create-new-vm.png" height="400"/>
 
 ### Adjust information in the following tabs and fields
 
@@ -21,7 +20,7 @@ Create a new virtual machine by selecting 'start from scratch'
 
 Select the alpine vm in UTM and see the drop down menu labelled CD/DVD. Select browse from the menu and find the alpine ‘.iso’ file you downloaded earlier. 
 
-<img src="https://github.com/cs-uob/cs-uob.github.io/blob/master/PGT/Setup/Images/AlpineM1/alpine-setup-ready.png"/>
+<img src="Images/AlpineM1/alpine-setup-ready.png"/>
 
 Click the play button to start the VM 
 
