@@ -33,7 +33,7 @@ TB4 means that a unit runs across the entire academic year.
 | COMS20009 | Interaction and Society               | TB2 | 20 | use MS Teams | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS20009) |
 | COMS20010 | Algorithms II                         | TB1 | 10 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_247716_1&content_id=_5948731_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS20010) |
 | COMS20011 | Data-Driven Computer Science          | TB2 | 10 |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS20011) |
-| COMS20012 | Computer Systems B                    | TB2 | 20 |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS20012) |
+| COMS20012 | Computer Systems B                    | TB2 | 20 | [unit page](https://cs-uob.github.io/COMS20012/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS20012) |
 
 # Year 3, Teaching Block 1
 
@@ -107,12 +107,12 @@ On the conversion course, you will take the following units:
 
 | Code      | Title | Page | Catalogue Page |
 |-----------|-------|------|----------------|
-| COMSM0084 | Introduction to Computer Science |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0084) |
+| COMSM0084 | Introduction to Computer Science | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_247624_1&content_id=_5939249_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0084) |
 | COMSM1201 | Programming in C | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_247602_1&content_id=_5641926_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM1201) |
 | COMSM1302 | Overview of Computer Architecture | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_247601_1&content_id=_5937154_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM1302) |
-| COMSM0085 | Overview of Software Tools |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0085) |
+| COMSM0085 | Overview of Software Tools | [unit page](https://cs-uob.github.io/COMSM0085/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0085) |
 | COMSM0086 | Object-Oriented Programming with Java |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0086) |
-| COMSM1401 | Overview of Software Engineering |   | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0110) |
+| COMSM0110 | Overview of Software Engineering | [Github page](https://github.com/pose-uob/POSE2022) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0110) |
 
 If you pass all your units, you will then work on one of the following two units over the summer, both of which are worth 60 credits:
 
