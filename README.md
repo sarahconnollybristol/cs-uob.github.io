@@ -32,7 +32,7 @@ TB4 means that a unit runs across the entire academic year.
 | COMS20008 | Computer Systems A                    | TB1 | 20 | [unit page](https://uob-csa.github.io/website/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS20008) |
 | COMS20009 | Interaction and Society               | TB2 | 20 | use MS Teams | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS20009) |
 | COMS20010 | Algorithms II                         | TB1 | 10 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_247716_1&content_id=_5948731_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS20010) |
-| COMS20011 | Data-Driven Computer Science          | TB2 | 10 |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS20011) |
+| COMS20011 | Data-Driven Computer Science          | TB2 | 10 | [unit page](https://github.com/LaurenceA/COMS20011_2021) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS20011) |
 | COMS20012 | Computer Systems B                    | TB2 | 20 | [unit page](https://cs-uob.github.io/COMS20012/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS20012) |
 
 # Year 3, Teaching Block 1
