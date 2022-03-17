@@ -92,12 +92,12 @@ Students must enrol on the teaching unit and on the correct assessment unit for 
 
 | Unit title | Teaching | Year 3 | Year 4 | Unit page | Catalogue page |
 |------------|----------|--------|--------|-----------|----------------|
-| Advanced Computer Architecture | COMS30046 | COMS30047 | COMSM0053 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS30046) |
-| Applied Cryptology             | COMS30048 | COMS30049 | COMSM0054 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS30048) |
-| Applied Data Science           | COMS30050 | COMS30051 | COMSM0055 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS30050) |
-| CGI                            | COMS30058 | COMS30059 | COMSM0076 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS30058) |
-| High Performance Computing     | COMS30053 | COMS30052 | COMSM0057 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS30053) |
-| Interaction Design             | COMS30060 | COMS30061 | COMSM0083 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS30060) |
+| Advanced Computer Architecture | COMS30046 | COMS30047 | COMSM0053 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_5945521_1&course_id=_247685_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS30046) |
+| Applied Cryptology             | COMS30048 | COMS30049 | COMSM0054 | [unit page](https://www.phoo.org/COMS30048/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS30048) |
+| Applied Data Science           | COMS30050 | COMS30051 | COMSM0055 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_247681_1&content_id=_5945118_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS30050) |
+| CGI                            | COMS30058 | COMS30059 | COMSM0076 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_247675_1&content_id=_5944617_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS30058) |
+| High Performance Computing     | COMS30053 | COMS30052 | COMSM0057 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_247678_1&content_id=_5944903_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS30053) |
+| Interaction Design             | COMS30060 | COMS30061 | COMSM0083 | use Microsoft Teams | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMS30060) |
 
 Exception: Year 4 MEng students may also take EMATM0053 "Robotics Systems (Undergraduate)", offered by Engineering Mathematics.
 
@@ -111,7 +111,7 @@ On the conversion course, you will take the following units:
 | COMSM1201 | Programming in C | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_247602_1&content_id=_5641926_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM1201) |
 | COMSM1302 | Overview of Computer Architecture | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_247601_1&content_id=_5937154_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM1302) |
 | COMSM0085 | Overview of Software Tools | [unit page](https://cs-uob.github.io/COMSM0085/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0085) |
-| COMSM0086 | Object-Oriented Programming with Java |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0086) |
+| COMSM0086 | Object-Oriented Programming with Java | [Github page](https://github.com/drslock/JAVA2021) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0086) |
 | COMSM0110 | Overview of Software Engineering | [Github page](https://github.com/pose-uob/POSE2022) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=COMSM0110) |
 
 If you pass all your units, you will then work on one of the following two units over the summer, both of which are worth 60 credits:
