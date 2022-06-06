@@ -1,12 +1,16 @@
 Welcome to the website for the Department of Computer Science at the University of Bristol.
 
-<span style="color:green;font-weight:bold">This page has been updated to show units and links for the 2021-2022 academic year. Direct links to more units will appear as individual units get their websites for the new year set up.</span>
-
 This page will provide links to the unit pages for all units in the department who have chosen to create a website, as well as the unit catalogue page that contains the official information on topics like credit points and assessments.
 
 Some units have chosen to host their information on the university's Blackboard content management system. These are marked with `(*)` and, depending on the set-up, might only work if you are already logged in to Blackboard and only if you are registered on the unit. You can log in to blackboard at [ole.bris.ac.uk](https://ole.bris.ac.uk).
 
 For undergraduate students picking their optional units for future years, we have created [an interactive prerequisite map](FACE/index.html). All information on this page is offered "without warranty" as the information is subject to change in future years.
+
+<div style="border: 1px solid black; padding: 0.5em">
+
+Are you a current student with good grades, interested in a funded PhD scheme that lets you stay in Bristol and get teaching as well as reseach experience? Then have a look at our [Doctoral Training Associate](PGR/2022_DTA.md) positions.
+
+</div>
 
 # Year 1
 

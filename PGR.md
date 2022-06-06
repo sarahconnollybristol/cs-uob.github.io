@@ -11,5 +11,5 @@ At the moment the principal purpose of this page is to provide a list
 of project suggestions and opportunities for the Doctoral Teaching
 Associate PhD Studentship scheme:
 
-* [DTA studentship projects]
+* [DTA studentship projects](PGR/2022_DTA.md)
 
