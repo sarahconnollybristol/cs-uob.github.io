@@ -6,11 +6,7 @@ Some units have chosen to host their information on the university's Blackboard 
 
 For undergraduate students picking their optional units for future years, we have created [an interactive prerequisite map](FACE/index.html). All information on this page is offered "without warranty" as the information is subject to change in future years.
 
-<div style="border: 1px solid black; padding: 0.5em">
-
-Are you a current student with good grades, interested in a funded PhD scheme that lets you stay in Bristol and get teaching as well as reseach experience? Then have a look at our [Doctoral Training Associate](PGR/2022_DTA.md) positions.
-
-</div>
+**Are you a current student with good grades, interested in a funded PhD scheme that lets you stay in Bristol and get teaching as well as reseach experience? Then have a look at our [Doctoral Training Associate](PGR/2022_DTA.md) positions.**
 
 # Year 1
 
