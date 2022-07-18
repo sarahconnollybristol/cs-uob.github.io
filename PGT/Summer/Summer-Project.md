@@ -209,7 +209,7 @@ As an example, if the vital equipment from the first bullet point were a sensor 
 both a main sensor and backup sensor early in the project, and possibly also to set up the processing step to accept synthetic data as an additional fallback.
 
 **Lack of contact with supervisor(s) and/or advisor(s):** For topic-specific advice, your supervisor should be your first point of contact for the entire duration 
-of the project. History suggests that regular meetings with your supervisor are a string indicator of a successful project. Such meetings do not have to be 
+of the project. History suggests that regular meetings with your supervisor are a strong indicator of a successful project. Such meetings do not have to be 
 lengthy (a five-minute progress check in which you say “I am working on X but have not finished it” is fine), but without them you can easily find yourself 
 spending weeks on something which is either a dead end or which will add very little value to your project. 
 
