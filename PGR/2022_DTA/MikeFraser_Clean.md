@@ -1,5 +1,5 @@
 
-# Computer Vision in the Health Domain: monitoring people for well-being and recovery
+# Clean Air Zone: Algorithms to monitor and remove pollution using sound
 
 _Mike Fraser_ and _Anne Roudaut_
 
