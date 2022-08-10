@@ -2,9 +2,9 @@ Welcome to the website for the Department of Computer Science at the University 
 
 <div style="color:forestgreen">
 
-**This page is now showing units for the 2022-23 academic year. Links to individual units will be updated as unit pages go live over the coming weeks.**
+<strong>This page is now showing units for the 2022-23 academic year. Links to individual units will be updated as unit pages go live over the coming weeks.</strong>
 
-_Current students looking for last year's units should consult the 2021-22-final tag on the github page._
+<em>Current students looking for last year's units should consult the 2021-22-final tag on the github page.</em>
 
 </div>
 
