@@ -18,8 +18,8 @@
 ## Setting up your environment (pre study)  
 You **must** have access to a linux environment for this course.  
 [Accessing Windows Subsystem for Linux on Windows](https://cs-uob.github.io/PGT/Setup/WSL)  
-[Setting up a Virtual Machine in Windows](https://cs-uob.github.io/PGT/Setup/WindowsVM)  
-[Setting up a Virtual Machine in MacOS](https://cs-uob.github.io/PGT/Setup/MacVM)  
+[Setting up a Virtual Machine in Windows or Macs with intel processors](https://cs-uob.github.io/PGT/Setup/WindowsVM)  
+[Setting up a Virtual Machine in MacOS with M1 and above processors](https://cs-uob.github.io/PGT/Setup/MacVM)  
 [Connecting to a lab machine remotely](https://cs-uob.github.io/PGT/Setup/ssh)
 
 ## General Information  
