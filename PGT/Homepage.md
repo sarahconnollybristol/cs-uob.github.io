@@ -3,17 +3,14 @@
 ## Modules
 
 **Teaching Block 1**  
-[Programming in C](https://cs-uob.github.io/PGT/TB1/Programming%20in%20C)
-[Introduction to Computer Science](https://cs-uob.github.io/PGT/TB1/Intro2CS) - [Blackboard](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_5939249_1&course_id=_247624_1)  
-[Computer Architecture](https://cs-uob.github.io/PGT/TB1/Comp-Arch) - [Blackboard](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_5937154_1&course_id=_247601_1) 
+[Programming in C](https://cs-uob.github.io/PGT/TB1/Programming%20in%20C)  
+[Introduction to Computer Science](https://cs-uob.github.io/PGT/TB1/Intro2CS)  
+[Computer Architecture](https://cs-uob.github.io/PGT/TB1/Comp-Arch)  
 
 **Teaching Block 2**  
 [Object Oriented Programming with Java](https://cs-uob.github.io/PGT/TB2/java)  
 [Software Tools](https://cs-uob.github.io/PGT/TB2/Software-Tools)  
 [Software Engineering](https://cs-uob.github.io/PGT/TB2/Software-Engineering)
-
-**Summer Term**  
-[Summer Project](https://cs-uob.github.io/PGT/Summer/Summer-Project)
 
 **Other**  
 [Programme Tutorials](https://cs-uob.github.io/PGT/Programme-Tutorials/Programme-Tutorials)
