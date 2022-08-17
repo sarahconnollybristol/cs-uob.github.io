@@ -12,6 +12,9 @@
 [Software Tools](https://cs-uob.github.io/PGT/TB2/Software-Tools)  
 [Software Engineering](https://cs-uob.github.io/PGT/TB2/Software-Engineering)
 
+**Summer Term**  
+TBC
+
 **Other**  
 [Programme Tutorials](https://cs-uob.github.io/PGT/Programme-Tutorials/Programme-Tutorials)
 
