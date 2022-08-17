@@ -13,10 +13,10 @@ These lessons are extra and optional, compiled over the years to guide you in yo
 
 ### TB2  
 [SSH](tb2/SSH%20Updated.pdf) and the [SSH Quiz](https://web.edapp.com/lessons/61e14ee8212f3ba2e5588af8/).  
-[Java Tools](tb2/Java%20Tools.pdf)
-[JavaScript](tb2/JavaScript.pdf)
-[Lambda in Java](tb2/Lambda-Java.pdf)
-[LaTex](tb2/LaTex.pdf)
-[Plagiarism](tb2/Plagiarism.pdf)
-[Shell Script](tb2/Shell%20Scripting.pdf)
+[Java Tools](tb2/Java%20Tools.pdf)  
+[JavaScript](tb2/JavaScript.pdf)  
+[Lambda in Java](tb2/Lambda-Java.pdf)  
+[LaTex](tb2/LaTex.pdf)  
+[Plagiarism](tb2/Plagiarism.pdf)  
+[Shell Script](tb2/Shell%20Scripting.pdf)  
 
