@@ -1,4 +1,4 @@
-# MSc Computer Science (Conversion)
+# Msc Computer Science (Conversion)
 
 ## Modules
 
