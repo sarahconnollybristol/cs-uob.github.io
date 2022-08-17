@@ -1,7 +1,7 @@
 # Ubuntu Virtual Machine for Mac users (and M1 users)
  
 ### Note: 
-The solution outlined below is free and relatively new software. It runs slowly and has been known to crash occasionally. In light of this, there is an alternative paid-for service that students have found useful [here](https://www.parallels.com/uk/). The benefit of this is that students can obtain a virtual machine on their own laptop which runs efficiently. However, this paid-for service is **not** essential to obtaining a linux environment. The solution outlined below will still work, and the university lab machines are available for you to use either in person or [remotely](https://github.com/cs-uob/cs-uob.github.io/blob/master/PGT/Setup/ssh.md).
+The solution outlined below is free and relatively new software. It runs slowly and has been known to crash occasionally. In light of this, there is an alternative paid-for service that students have found useful [here](https://www.parallels.com/uk/). The benefit of this is that students can obtain a virtual machine on their own laptop which runs efficiently. However, this paid-for service is **not** essential to obtaining a linux environment. The solution outlined below will still work, and the university lab machines are available for you to use either in person or [remotely](https://github.com/cs-uob/cs-uob.github.io/blob/master/PGT/Setup/ssh).
 
 ### UTM
 [Download](https://getutm.app/)
