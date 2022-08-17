@@ -17,6 +17,7 @@
 
 ## Setting up your environment (pre study)  
 You **must** have access to a linux environment for this course.  
+[Recommended personal system](https://cs-uob.github.io/PGT/Setup/your-system)
 [Accessing Windows Subsystem for Linux on Windows](https://cs-uob.github.io/PGT/Setup/WSL)  
 [Setting up a Virtual Machine in Windows](https://cs-uob.github.io/PGT/Setup/WindowsVM) (or Macs with intel processors)  
 [Setting up a Virtual Machine in MacOS](https://cs-uob.github.io/PGT/Setup/MacVM)  
