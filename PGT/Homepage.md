@@ -17,7 +17,7 @@ Blackboard links will work as you are granted access to course material througho
 **Group Projects**  
 [Blackboard](https://www.ole.bris.ac.uk/webapps/blackboard/execute/launcher?type=Course&id=_252868_1&url=)    
 **Individual Projects**  
-[Blackboard](https://www.ole.bris.ac.uk/webapps/blackboard/execute/launcher?type=Course&id=_252868_1&url=)  
+[Blackboard](https://www.ole.bris.ac.uk/webapps/blackboard/execute/launcher?type=Course&id=_252847_1&url=)  
 
 
 ### Other
