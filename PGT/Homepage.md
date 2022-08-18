@@ -14,7 +14,7 @@ Blackboard links will work as you are granted access to course material througho
 [Software Engineering](https://cs-uob.github.io/PGT/TB2/Software-Engineering) - [Blackboard](https://www.ole.bris.ac.uk/webapps/blackboard/execute/launcher?type=Course&id=_252867_1&url=)
 
 **Summer Term**  
-General information TBC - [Blackboard](https://www.ole.bris.ac.uk/webapps/blackboard/execute/launcher?type=Course&id=_252868_1&url=)
+General information TBC - [Individual Projects Blackboard](https://www.ole.bris.ac.uk/webapps/blackboard/execute/launcher?type=Course&id=_252868_1&url=), [Group Projects Blackboard]9https://www.ole.bris.ac.uk/webapps/blackboard/execute/launcher?type=Course&id=_252868_1&url=)  
 
 **Other**  
 [Programme Tutorials](https://cs-uob.github.io/PGT/Programme-Tutorials/Programme-Tutorials)
