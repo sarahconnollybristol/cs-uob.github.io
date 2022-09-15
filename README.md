@@ -22,9 +22,9 @@ All these units are worth 20CP (credit points) each. The unit code numbering is 
 
 | Code | Title | Teaching Block | Unit page | Catalogue Page |
 |------|-------|----------------|-----------|----------------|
-| COMS10014 | Mathematics for Computer Science A    | TB1 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS10014) |
-| COMS10015 | Computer Architecture                 | TB1 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS10015) |
-| COMS10016 | Imperative and Functional Programming | TB1 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS10016) |
+| COMS10014 | Mathematics for Computer Science A    | TB1 | [unit page](https://cs-uob.github.io/COMS10014/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS10014) |
+| COMS10015 | Computer Architecture                 | TB1 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_252990_1&content_id=_7089213_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS10015) |
+| COMS10016 | Imperative and Functional Programming | TB1 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_7089100_1&course_id=_252989_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS10016) |
 | COMS10012 | Software Tools                        | TB2 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS10012) |
 | COMS10013 | Mathematics for Computer Science B    | TB2 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS10013) |
 | COMS10017 | Object-Oriented Programming and Algorithms I | TB2 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS10017) |
@@ -35,11 +35,11 @@ TB4 means that a unit runs across the entire academic year.
 
 | Code | Title | Teaching Block | Credits | Unit page | Catalogue Page |
 |------|-------|----------------|---------|-----------|----------------|
-| COMS20006 | Software Engineering Project          | TB4 | 20 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS20006) |
-| COMS20007 | Programming Languages and Computation | TB1 | 20 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS20007) |
-| COMS20008 | Computer Systems A                    | TB1 | 20 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS20008) |
+| COMS20006 | Software Engineering Project          | TB4 | 20 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_252987_1&content_id=_7088875_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS20006) |
+| COMS20007 | Programming Languages and Computation | TB1 | 20 | [blackboard page (*)](https://www.ole.bris.ac.uk/bbcswebdav/pid-7088752-dt-content-rid-28484075_2/xid-28484075_2) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS20007) |
+| COMS20008 | Computer Systems A                    | TB1 | 20 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_252985_1&content_id=_7088628_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS20008) |
 | COMS20009 | Interaction and Society               | TB2 | 20 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS20009) |
-| COMS20010 | Algorithms II                         | TB1 | 10 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS20010) |
+| COMS20010 | Algorithms II                         | TB1 | 10 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_252983_1&content_id=_7088335_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS20010) |
 | COMS20011 | Data-Driven Computer Science          | TB2 | 10 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS20011) |
 | COMS20012 | Computer Systems B                    | TB2 | 20 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS20012) |
 
