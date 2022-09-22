@@ -39,7 +39,7 @@ TB4 means that a unit runs across the entire academic year.
 | COMS20007 | Programming Languages and Computation | TB1 | 20 | [blackboard page (*)](https://www.ole.bris.ac.uk/bbcswebdav/pid-7088752-dt-content-rid-28484075_2/xid-28484075_2) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS20007) |
 | COMS20008 | Computer Systems A                    | TB1 | 20 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_252985_1&content_id=_7088628_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS20008) |
 | COMS20009 | Interaction and Society               | TB2 | 20 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS20009) |
-| COMS20010 | Algorithms II                         | TB1 | 10 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_252983_1&content_id=_7088335_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS20010) |
+| COMS20010 | Algorithms II                         | TB1 | 10 | [unit page](https://uob-cs-algorithms-ii.github.io/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS20010) |
 | COMS20011 | Data-Driven Computer Science          | TB2 | 10 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS20011) |
 | COMS20012 | Computer Systems B                    | TB2 | 20 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS20012) |
 
