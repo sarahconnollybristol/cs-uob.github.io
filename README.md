@@ -84,9 +84,9 @@ In this teaching block, students take one 40CP project:
 
 | Year         | Code      | Title | Unit page | Catalogue page |
 |--------------|-----------|-------|-----------|----------------|
-| Year 3, BSc  | COMS30045 | Individual Project |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS30045) |
-| Year 3, MEng | COMS30043 | Team Project       |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS30043) |
-| Year 4, MEng | COMSM0052 | Individual Project |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMSM0052) |
+| Year 3, BSc  | COMS30045 | Individual Project | [projects website](https://cs-uob-individual-project.github.io/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS30045) |
+| Year 3, MEng | COMS30043 | Team Project       | [projects website](https://cs-uob-individual-project.github.io/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS30043) |
+| Year 4, MEng | COMSM0052 | Individual Project | [projects website](https://cs-uob-individual-project.github.io/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMSM0052) |
 
 There is one exception - students on the MEng can switch to the MSci at the end of second year to take three 20CP mini-project units instead of one mini-project and the team project in year 3. However you are advised to talk to a tutor before making this decision as it has implications, for example you may not be able to leave with a BSc after three years as you do not have a 40CP project "for honours".
 
