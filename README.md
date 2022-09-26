@@ -70,13 +70,13 @@ Some units only offer a January assessment option.
 
 | Title                                           | Teaching  | In-term   | January   | Unit page | Catalogue Page |
 |-------------------------------------------------|-----------|-----------|-----------|-----------|----------------|
-| Advanced Cryptology                             | COMSM0042 | COMSM0097 | COMSM0040 | |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMSM0042) |
-| Advanced Topics in Programming Languages        | COMSM0067 | -         | COMSM0066 | |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMSM0067) |
-| Advanced Topics in Theoretical Computer Science | COMSM0068 | -         | COMSM0069 | |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMSM0068) |
-| Applied Deep Learning                           | COMSM0045 | COMSM0098 | COMSM0043 | |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMSM0045) |
-| Information Processing and the Brain            | COMSM0075 | COMSM0100 | COMSM0073 | |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMSM0075) |
-| Internet Economics and Financial Technology     | COMSM0046 | COMSM0101 | COMSM0047 | |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMSM0046) |
-| Systems and Software Security                   | COMSM0049 | COMSM0102 | COMSM0050 | |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMSM0049) |
+| Advanced Cryptology                             | COMSM0042 | COMSM0097 | COMSM0040 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_252912_1&content_id=_7081343_1) |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMSM0042) |
+| Advanced Topics in Programming Languages        | COMSM0067 | -         | COMSM0066 | [unit page](https://bristolpl.github.io/ATiPL/) |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMSM0067) |
+| Advanced Topics in Theoretical Computer Science | COMSM0068 | -         | COMSM0069 | [unit page](http://people.cs.bris.ac.uk/~clifford/comsm0068/) |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMSM0068) |
+| Applied Deep Learning                           | COMSM0045 | COMSM0098 | COMSM0043 | [unit page](https://comsm0045-applied-deep-learning.github.io/) |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMSM0045) |
+| Information Processing and the Brain            | COMSM0075 | COMSM0100 | COMSM0073 | [unit page](https://comsm0075.github.io/) |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMSM0075) |
+| Internet Economics and Financial Technology     | COMSM0046 | COMSM0101 | COMSM0047 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_252909_1&content_id=_7080875_1) |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMSM0046) |
+| Systems and Software Security                   | COMSM0049 | COMSM0102 | COMSM0050 | [unit page](https://cs-uob.github.io/COMSM0049/) |  [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMSM0049) |
 
 # Year 3 and 4, Teaching Block 2 - project units
 
