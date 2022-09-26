@@ -24,7 +24,7 @@ All these units are worth 20CP (credit points) each. The unit code numbering is 
 |------|-------|----------------|-----------|----------------|
 | COMS10014 | Mathematics for Computer Science A    | TB1 | [unit page](https://cs-uob.github.io/COMS10014/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS10014) |
 | COMS10015 | Computer Architecture                 | TB1 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_252990_1&content_id=_7089213_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS10015) |
-| COMS10016 | Imperative and Functional Programming | TB1 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_7089100_1&course_id=_252989_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS10016) |
+| COMS10016 | Imperative and Functional Programming | TB1 | [unit page](https://uob-coms10016.github.io/2022/start.html) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS10016) |
 | COMS10012 | Software Tools                        | TB2 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS10012) |
 | COMS10013 | Mathematics for Computer Science B    | TB2 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS10013) |
 | COMS10017 | Object-Oriented Programming and Algorithms I | TB2 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS10017) |
