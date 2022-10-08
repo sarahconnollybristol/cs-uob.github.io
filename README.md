@@ -80,15 +80,19 @@ Some units only offer a January assessment option.
 
 # Year 3 and 4, Teaching Block 2 - project units
 
-In this teaching block, students take one 40CP project:
+In this teaching block, CS project units take place. Single-honours BSc students take the 40CP "Individual Project" (COMS30045) in year 3. Single-honours MEng students take the 40CP "Team Project" (COMS30043) in year 3 and the 40CP "Individual project with Innovation Case" (COMSM0052) in year 4. All maths and computer science students choose between the CS-focused "Short Individual Project" (COMS30044) and the maths-focused "Project 1" (MATH32200) in year 3; both are 20CP, but the maths option is TB4. In year 4, MEng students who took MATH32200 then go on to take the single-honours year 4 CS project COMSM0052, while students who took COMS30044 go on to take the normal single-honours year 4 maths project MATHM2204; both are 40CP, but again the maths option is TB4. All other joint honours students have their own project units, which aren't administered by CS.
+
+Here are the web pages for all the CS-run project units; note that for maths/CS students, we run the CS options COMS30044 and COMSM0052 but not the maths options MATH32200 and MATHM2204.
 
 | Year         | Code      | Title | Unit page | Catalogue page |
 |--------------|-----------|-------|-----------|----------------|
 | Year 3, BSc  | COMS30045 | Individual Project | [projects website](https://cs-uob-individual-project.github.io/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS30045) |
-| Year 3, MEng | COMS30043 | Team Project       | [projects website](https://cs-uob-individual-project.github.io/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS30043) |
-| Year 4, MEng | COMSM0052 | Individual Project | [projects website](https://cs-uob-individual-project.github.io/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMSM0052) |
+| Year 3, BSc/MEng Maths+CS | COMS30044 | Short Individual Project | [projects website](https://cs-uob-individual-project.github.io/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS30044) |
+| Year 3, MEng | COMS30043 | Team Project       |  | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS30043) |
+| Year 4, MEng | COMSM0052 | Individual Project with Innovation Case | [projects website](https://cs-uob-individual-project.github.io/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMSM0052) |
 
-There is one exception - students on the MEng can switch to the MSci at the end of second year to take three 20CP mini-project units instead of one mini-project and the team project in year 3. However you are advised to talk to a tutor before making this decision as it has implications, for example you may not be able to leave with a BSc after three years as you do not have a 40CP project "for honours".
+
+There is one exception to the above - students on the MEng can switch to the MSci at the end of second year to take three 20CP mini-project units instead of one mini-project and the team project in year 3. However you are advised to talk to a tutor before making this decision as it has implications, for example you may not be able to leave with a BSc after three years as you do not have a 40CP project "for honours".
 
 # Year 3 and 4, Teaching Block 2
 
