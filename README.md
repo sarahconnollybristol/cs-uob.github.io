@@ -14,7 +14,7 @@ Some units have chosen to host their information on the university's Blackboard 
 
 For undergraduate students picking their optional units for future years, we have created [an interactive prerequisite map](FACE/index.html). All information on this page is offered "without warranty" as the information is subject to change in future years.
 
-**Are you a current student with good grades, interested in a funded PhD scheme that lets you stay in Bristol and get teaching as well as reseach experience? Then have a look at our [Doctoral Training Associate](PGR/2022_DTA.md) positions.**
+**Are you a current student with good grades, interested in a funded PhD scheme that lets you stay in Bristol and get teaching as well as research experience? Then have a look at our [Doctoral Training Associate](PGR/2022_DTA.md) positions.**
 
 # Year 1
 
@@ -25,7 +25,7 @@ All these units are worth 20CP (credit points) each. The unit code numbering is 
 | COMS10014 | Mathematics for Computer Science A    | TB1 | [unit page](https://cs-uob.github.io/COMS10014/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS10014) |
 | COMS10015 | Computer Architecture                 | TB1 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_252990_1&content_id=_7089213_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS10015) |
 | COMS10016 | Imperative and Functional Programming | TB1 | [unit page](https://uob-coms10016.github.io/2022/start.html) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS10016) |
-| COMS10012 | Software Tools                        | TB2 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS10012) |
+| COMS10012 | Software Tools                        | TB2 | [unit page](https://cs-uob.github.io/COMS10012/)| [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS10012) |
 | COMS10013 | Mathematics for Computer Science B    | TB2 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS10013) |
 | COMS10017 | Object-Oriented Programming and Algorithms I | TB2 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS10017) |
 
@@ -120,7 +120,7 @@ On the conversion course, you will take the following units:
 | COMSM0084 | Introduction to Computer Science | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMSM0084) |
 | COMSM1201 | Programming in C | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMSM1201) |
 | COMSM1302 | Overview of Computer Architecture | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMSM1302) |
-| COMSM0085 | Overview of Software Tools | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMSM0085) |
+| COMSM0085 | Overview of Software Tools | [unit page](https://cs-uob.github.io/COMSM0085/)| [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMSM0085) |
 | COMSM0086 | Object-Oriented Programming with Java | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMSM0086) |
 | COMSM0110 | Overview of Software Engineering | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMSM0110) |
 
