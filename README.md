@@ -38,10 +38,10 @@ TB4 means that a unit runs across the entire academic year.
 | COMS20006 | Software Engineering Project          | TB4 | 20 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_252987_1&content_id=_7088875_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS20006) |
 | COMS20007 | Programming Languages and Computation | TB1 | 20 | [blackboard page (*)](https://www.ole.bris.ac.uk/bbcswebdav/pid-7088752-dt-content-rid-28484075_2/xid-28484075_2) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS20007) |
 | COMS20008 | Computer Systems A                    | TB1 | 20 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_252985_1&content_id=_7088628_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS20008) |
-| COMS20009 | Interaction and Society               | TB2 | 20 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS20009) |
+| COMS20009 | Interaction and Society               | TB2 | 20 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_252984_1&content_id=_7088519_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS20009) |
 | COMS20010 | Algorithms II                         | TB1 | 10 | [unit page](https://uob-cs-algorithms-ii.github.io/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS20010) |
 | COMS20011 | Data-Driven Computer Science          | TB2 | 10 | [unit page](https://github.com/LaurenceA/COMS20011_2022) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS20011) |
-| COMS20012 | Computer Systems B                    | TB2 | 20 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS20012) |
+| COMS20012 | Computer Systems B                    | TB2 | 20 | [unit page](https://cs-uob.github.io/COMS20012/) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS20012) |
 
 # Year 3, Teaching Block 1
 
