@@ -102,12 +102,12 @@ Students must enrol on the teaching unit and on the correct assessment unit for 
 
 | Unit title | Teaching | Year 3 | Year 4 | Unit page | Catalogue page |
 |------------|----------|--------|--------|-----------|----------------|
-| Advanced Computer Architecture | COMS30046 | COMS30047 | COMSM0053 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS30046) |
-| Applied Cryptology             | COMS30048 | COMS30049 | COMSM0054 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS30048) |
-| Applied Data Science           | COMS30050 | COMS30051 | COMSM0055 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS30050) |
-| CGI                            | COMS30058 | COMS30059 | COMSM0076 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS30058) |
-| High Performance Computing     | COMS30053 | COMS30052 | COMSM0057 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS30053) |
-| Interactive Devices            | COMS30054 | COMS30055 | COMSM0058 | | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS30054) |
+| Advanced Computer Architecture | COMS30046 | COMS30047 | COMSM0053 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_252950_1&content_id=_7084609_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS30046) |
+| Applied Cryptology             | COMS30048 | COMS30049 | COMSM0054 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_252948_1&content_id=_7438763_1&mode=reset) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS30048) |
+| Applied Data Science           | COMS30050 | COMS30051 | COMSM0055 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_252946_1&content_id=_7084223_1&mode=reset) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS30050) |
+| CGI                            | COMS30058 | COMS30059 | COMSM0076 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_252938_1&content_id=_7083629_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS30058) |
+| High Performance Computing     | COMS30053 | COMS30052 | COMSM0057 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_252943_1&content_id=_7084011_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS30053) |
+| Interactive Devices            | COMS30054 | COMS30055 | COMSM0058 | [blackboard page (*)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_252942_1&content_id=_7083926_1) | [catalogue](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS30054) |
 
 Exception: Year 4 MEng students may also take EMATM0053 "Robotics Systems (Undergraduate)", offered by Engineering Mathematics.
 
